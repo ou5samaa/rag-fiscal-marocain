@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0",
+  "status": "annotated",
+  "scope": "four_complete_editions",
+  "questions": [
+    {
+      "id": "fc01",
+      "edition": 2023,
+      "question": "Selon le CGI 2023, à quelle condition la rémunération d'un associé non dirigeant peut-elle être déduite des charges ?",
+      "expected_answer": "Elle doit rémunérer des services effectivement rendus à la société en qualité de salarié.",
+      "family_id": "revenu_professionnel_charges",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2023,
+          "article": "35",
+          "subdivision_path": [],
+          "quote": "Les rémunérations des associés non dirigeants des sociétés visées ci- dessus ne peuvent être comprises dans les charges déductibles que lorsqu’elles sont la contrepartie de services effectivement rendus à la société, en leur qualité de salariés.",
+          "pdf_pages": [
+            68
+          ],
+          "printed_pages": [
+            "68"
+          ],
+          "source_sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf"
+        }
+      ],
+      "article_target": "35",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc02",
+      "edition": 2023,
+      "question": "Dans le CGI 2023, jusqu'à quand les employeurs doivent-ils conserver les documents relatifs à la retenue à la source ?",
+      "expected_answer": "Jusqu'à l'expiration de la quatrième année suivant celle au titre de laquelle la retenue devait être effectuée.",
+      "family_id": "employeur_conservation_registres",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2023,
+          "article": "80",
+          "subdivision_path": [],
+          "quote": "Les documents visés à l'alinéa précédent doivent être conservés jusqu'à l'expiration de la quatrième année suivant celle au titre de laquelle la retenue devait être effectuée, ils doivent être communiqués à toute époque sur leur demande aux agents des impôts.",
+          "pdf_pages": [
+            122
+          ],
+          "printed_pages": [
+            "122"
+          ],
+          "source_sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf"
+        }
+      ],
+      "article_target": "80",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc03",
+      "edition": 2023,
+      "question": "Selon le CGI 2023, pour combien de temps l'option à la TVA est-elle maintenue pour les personnes visées aux 1°, 2° et 3° de l'article 90 ?",
+      "expected_answer": "Au moins trois années consécutives.",
+      "family_id": "tva_option_duree",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2023,
+          "article": "90",
+          "subdivision_path": [
+            "4°"
+          ],
+          "quote": "Elle peut porter sur tout ou partie des ventes ou des prestations. Elle est maintenue pour une période d’au moins trois (3) années consécutives pour les personnes visées aux 1°, 2° et 3° ci-dessus et de manière irrévocable pour les personnes visées au 4° ci-dessus.",
+          "pdf_pages": [
+            138
+          ],
+          "printed_pages": [
+            "138"
+          ],
+          "source_sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf"
+        }
+      ],
+      "article_target": "90",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc04",
+      "edition": 2023,
+      "question": "Selon le CGI 2023, quelle administration applique la TVA à l'importation ?",
+      "expected_answer": "L'administration des douanes et impôts indirects.",
+      "family_id": "tva_importation_competence",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2023,
+          "article": "120",
+          "subdivision_path": [],
+          "quote": "L’application de la taxe sur la valeur ajoutée à l’importation incombe à l’administration des douanes et impôts indirects, conformément aux dispositions du présent code.",
+          "pdf_pages": [
+            189
+          ],
+          "printed_pages": [
+            "189"
+          ],
+          "source_sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf"
+        }
+      ],
+      "article_target": "120",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc05",
+      "edition": 2024,
+      "question": "Comment le CGI 2024 définit-il un promoteur immobilier dans les revenus professionnels ?",
+      "expected_answer": "Une personne qui procède ou fait procéder à l'édification d'un ou de plusieurs immeubles pour les vendre en totalité ou en partie.",
+      "family_id": "revenus_professionnels_promoteur",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2024,
+          "article": "30",
+          "subdivision_path": [
+            "1°",
+            "b"
+          ],
+          "quote": "On entend par : - promoteur immobilier : toute personne qui procède ou fait procéder à l’édification d’un ou de plusieurs immeubles en vue de les vendre en totalité ou en partie ;",
+          "pdf_pages": [
+            63
+          ],
+          "printed_pages": [
+            "64"
+          ],
+          "source_sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf"
+        }
+      ],
+      "article_target": "30",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc06",
+      "edition": 2024,
+      "question": "Selon le CGI 2024, quelle échéance s'applique à la déclaration mensuelle de TVA effectuée électroniquement ?",
+      "expected_answer": "Elle doit être souscrite avant l'expiration de chaque mois.",
+      "family_id": "tva_declaration_mensuelle_electronique",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2024,
+          "article": "110",
+          "subdivision_path": [],
+          "quote": "Toutefois, pour les contribuables qui effectuent leur déclaration par procédé électronique prévue à l’article 155 ci-dessous, celle-ci doit être souscrite avant l’expiration de chaque mois.",
+          "pdf_pages": [
+            187
+          ],
+          "printed_pages": [
+            "188"
+          ],
+          "source_sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf"
+        }
+      ],
+      "article_target": "110",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc07",
+      "edition": 2024,
+      "question": "Dans le CGI 2024, à quelle condition la preuve testimoniale peut-elle être reçue pour les droits d'enregistrement ?",
+      "expected_answer": "Seulement avec un commencement de preuve par écrit, quelle que soit l'importance du litige.",
+      "family_id": "enregistrement_preuve_testimoniale",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2024,
+          "article": "140",
+          "subdivision_path": [],
+          "quote": "Dans les instances relatives à l'application des droits d'enregistrement et contrairement à l'article 404 du Code des obligations et contrats, le serment ne peut être déféré par le juge, la preuve testimoniale ne peut être reçue qu'avec un commencement de preuve par écrit quelle que soit l'importance du litige.",
+          "pdf_pages": [
+            253
+          ],
+          "printed_pages": [
+            "254"
+          ],
+          "source_sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf"
+        }
+      ],
+      "article_target": "140",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc08",
+      "edition": 2024,
+      "question": "Dans le CGI 2024, quand se prescrit la demande de restitution d'une imposition en matière de TVA ?",
+      "expected_answer": "À l'expiration de la quatrième année suivant celle au titre de laquelle l'imposition a été payée.",
+      "family_id": "tva_restitution_prescription",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2024,
+          "article": "240",
+          "subdivision_path": [],
+          "quote": "La demande en restitution des contribuables est prescrite à l'expiration de la quatrième année qui suit celle au titre de laquelle l'imposition, objet de la demande en restitution, a été payée.",
+          "pdf_pages": [
+            422
+          ],
+          "printed_pages": [
+            "423"
+          ],
+          "source_sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf"
+        }
+      ],
+      "article_target": "240",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc09",
+      "edition": 2025,
+      "question": "Selon le CGI 2025, quel quorum est requis pour la première réunion de la commission locale communale ?",
+      "expected_answer": "Le président et deux membres doivent assister, dont obligatoirement un représentant de l'agriculteur, et tous les membres doivent avoir été convoqués par lettre recommandée avec accusé de réception.",
+      "family_id": "agricole_commission_quorum",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2025,
+          "article": "50",
+          "subdivision_path": [
+            "3°"
+          ],
+          "quote": "La commission délibère valablement lorsqu’assistent à la première réunion le président et deux de ses membres dont un représentant obligatoirement l'agriculteur et lorsque l'ensemble de ses membres ont été convoqués avec lettre recommandée avec accusé de réception. En cas de partage égal des voix, celle du président est prépondérante.",
+          "pdf_pages": [
+            82
+          ],
+          "printed_pages": [
+            "83"
+          ],
+          "source_sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf"
+        }
+      ],
+      "article_target": "50",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc10",
+      "edition": 2025,
+      "question": "Selon l'article 160 du CGI 2025, qui doit l'impôt lorsque le non-résident est payé par un tiers non résident ?",
+      "expected_answer": "L'entreprise ou l'organisme client au Maroc.",
+      "family_id": "nonresident_retenue_tiers",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2025,
+          "article": "160",
+          "subdivision_path": [
+            "II"
+          ],
+          "quote": "II.- Lorsque la personne physique ou morale non résidente est payée par un tiers non résident, l'impôt est dû par l'entreprise ou l'organisme client au Maroc.",
+          "pdf_pages": [
+            290
+          ],
+          "printed_pages": [
+            "291"
+          ],
+          "source_sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf"
+        }
+      ],
+      "article_target": "160",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc11",
+      "edition": 2025,
+      "question": "Quel est le taux de l'amende prévu pour la vente en tournée à l'article 190 du CGI 2025 ?",
+      "expected_answer": "Une amende égale à 1 % du montant de l'opération, par impôt.",
+      "family_id": "sanction_vente_tournee",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2025,
+          "article": "190",
+          "subdivision_path": [],
+          "quote": "Une amende égale à 1% est applicable, par impôt, au montant de l’opération effectuée par tout contribuable n’ayant pas observé les dispositions prévues à l’article 145-V ci-dessus. L’amende prévue par le présent article est émise par voie de rôle.",
+          "pdf_pages": [
+            346
+          ],
+          "printed_pages": [
+            "347"
+          ],
+          "source_sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf"
+        }
+      ],
+      "article_target": "190",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc12",
+      "edition": 2025,
+      "question": "Selon l'article 230 du CGI 2025, à quels organismes la procédure de sanction pour infraction au droit de communication ne s'applique-t-elle pas ?",
+      "expected_answer": "Aux administrations de l'État, aux collectivités locales et aux cadi chargés du taoutiq.",
+      "family_id": "communication_sanction_exception",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2025,
+          "article": "230",
+          "subdivision_path": [],
+          "quote": "Pour l’application des sanctions prévues à l’article 191-I ci-dessus, l’administration engage la procédure prévue à l’article 229 ci-dessus. Toutefois, ces dispositions ne sont pas applicables aux administrations de l’Etat, aux collectivités locales et aux cadi chargés du taoutiq.",
+          "pdf_pages": [
+            418
+          ],
+          "printed_pages": [
+            "419"
+          ],
+          "source_sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf"
+        }
+      ],
+      "article_target": "230",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc13",
+      "edition": 2026,
+      "question": "Selon le CGI 2026, quels abattements forfaitaires s'appliquent aux pensions et rentes viagères autour du seuil annuel de 168 000 dirhams ?",
+      "expected_answer": "70 % sur le montant brut ne dépassant pas 168 000 dirhams par an et 40 % sur le surplus, après les éventuelles déductions indiquées à l'article 60-I.",
+      "family_id": "pensions_abattement_bareme",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2026,
+          "article": "60",
+          "subdivision_path": [
+            "I"
+          ],
+          "quote": "I.- Pour la détermination du revenu net imposable en matière de pensions et rentes viagères, il est appliqué sur le montant brut imposable desdites pensions et rentes, déduction faite, le cas échéant, des cotisations et primes visées à l’article 59 (III et IV) ci-dessus, un abattement forfaitaire de : - 70% sur le montant brut qui ne dépasse pas annuellement 168 000 dirhams ; - 40% pour le surplus.",
+          "pdf_pages": [
+            99,
+            100
+          ],
+          "printed_pages": [
+            "100",
+            "101"
+          ],
+          "source_sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf"
+        }
+      ],
+      "article_target": "60",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc14",
+      "edition": 2026,
+      "question": "Selon le CGI 2026, quelle administration est compétente pour appliquer la TVA à l'importation ?",
+      "expected_answer": "L'administration des douanes et impôts indirects.",
+      "family_id": "tva_importation_competence",
+      "split": "dev",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2026,
+          "article": "120",
+          "subdivision_path": [],
+          "quote": "L’application de la taxe sur la valeur ajoutée à l’importation incombe à l’administration des douanes et impôts indirects, conformément aux dispositions du présent code.",
+          "pdf_pages": [
+            205
+          ],
+          "printed_pages": [
+            "206"
+          ],
+          "source_sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf"
+        }
+      ],
+      "article_target": "120",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc15",
+      "edition": 2026,
+      "question": "Selon le CGI 2026, le témoignage seul suffit-il comme preuve dans un litige relatif aux droits d'enregistrement ?",
+      "expected_answer": "Non. La preuve testimoniale exige un commencement de preuve par écrit.",
+      "family_id": "enregistrement_preuve_testimoniale",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2026,
+          "article": "140",
+          "subdivision_path": [],
+          "quote": "Dans les instances relatives à l'application des droits d'enregistrement et contrairement à l'article 404 du Code des obligations et contrats, le serment ne peut être déféré par le juge, la preuve testimoniale ne peut être reçue qu'avec un commencement de preuve par écrit quelle que soit l'importance du litige.",
+          "pdf_pages": [
+            265
+          ],
+          "printed_pages": [
+            "266"
+          ],
+          "source_sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf"
+        }
+      ],
+      "article_target": "140",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    },
+    {
+      "id": "fc16",
+      "edition": 2026,
+      "question": "Quels tarifs de taxe le CGI 2026 fixe-t-il pour un billet en classe économique et en première classe ou classe affaires ?",
+      "expected_answer": "100 dirhams en classe économique et 400 dirhams en première classe ou classe affaires.",
+      "family_id": "billets_taxe_tarif",
+      "split": "test",
+      "status": "verified",
+      "evidence": [
+        {
+          "edition": 2026,
+          "article": "290",
+          "subdivision_path": [],
+          "quote": "Le tarif de la taxe est fixé à cent (100) dirhams pour les billets de la classe économique et quatre cents (400) dirhams pour la première classe/classe affaires.",
+          "pdf_pages": [
+            524
+          ],
+          "printed_pages": [
+            "525"
+          ],
+          "source_sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf"
+        }
+      ],
+      "article_target": "290",
+      "annotation_method": "citation exacte issue des lignes du PDF local avant recherche",
+      "annotation_batch": "four_editions_new"
+    }
+  ]
+}

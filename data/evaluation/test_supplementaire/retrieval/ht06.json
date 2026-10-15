@@ -1,0 +1,49 @@
+{
+  "question_id": "ht06",
+  "family_id": "cessation_entreprise_declaration_delai",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2025,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    2
+  ],
+  "first_relevant_rank": 2,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 0,
+  "reciprocal_rank": 0.5,
+  "reciprocal_rank_at_5": 0.5,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "150",
+  "top1_edition": 2025,
+  "top5_ids": [
+    "cgi-2025:f510cca73c15:art-150:passage-0002",
+    "cgi-2025:f510cca73c15:art-150:passage-0001"
+  ],
+  "question": "Selon le CGI 2025, dans quel délai une entreprise doit-elle souscrire la déclaration requise après une cessation ou une transformation visée à l’article 150 ?",
+  "expected_answer": "Dans les quarante-cinq jours à compter de la réalisation du changement concerné.",
+  "retrieval_ms": 117.65969999760273,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2025,
+      "article": "150",
+      "id": "cgi-2025:f510cca73c15:art-150:passage-0002"
+    },
+    {
+      "rank": 2,
+      "edition": 2025,
+      "article": "150",
+      "id": "cgi-2025:f510cca73c15:art-150:passage-0001"
+    }
+  ]
+}

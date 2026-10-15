@@ -1,0 +1,38 @@
+{
+  "status": "frozen_before_retrieval",
+  "frozen_at": "2026-10-15T14:28:36.753328+00:00",
+  "question_count": 8,
+  "editions": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "retrieval_method": "hybrid_rrf",
+  "top_k": 5,
+  "edition_filter": "on",
+  "vector_backend": "chroma",
+  "answer_configuration": {
+    "vector_backend": "chroma",
+    "generation_mode": "spans",
+    "context_mode": "parents",
+    "citation_mode": "blocks",
+    "citation_block_policy": "verified_blocks"
+  },
+  "artifact_sha256": {
+    "specs": "9eb4988cff4f7b53b8e5095c31308ba89fbd6a806eae7fe2c3bc86f955b16b6d",
+    "articles": "5b68e9d4e67a347a15da29873455f4a2f4ba18d4e592c813db21ecf3b4f2be9c",
+    "index": "1cd17224baaeedaead8511d264bc0076f8a8f82c020838fbb1170946eb1f5df6",
+    "vectors": "c99e0795e92659350bf47605d9eb0f0063188b36529f7549b34d1545d5adcc31",
+    "chroma_manifest": "b91ed6fd8c42a5a0e3837cf02ef910050222b697c4d7c6fd6d3c578f62690a98",
+    "system_config": "c9cdaf3575aa614d8c7fa63541068cbf2f483bbc5b48eba4b2b7ff8f4a0cbb5b",
+    "active_state": "002b5fbfd037e135870824493c42062e935eb424185731b467e2231e8ab802fd",
+    "retriever_code": "61c5a7d5cc84bc5f7c7559653b595d48810d250945dfb8a91882bd3d4c74a1ff",
+    "ask_code": "fa2c2362c0bd09fce6a5cd4fd628496709064177022395d67b9170fb332248d9",
+    "context_code": "e84f58984e3684c206dde4a55607d26bf7379c865a3591710cb91899f1875744",
+    "generation_code": "9bee234b788ede6ee5b589d78ea85dbff6397921a4f7d5ad4a494851d24f0284",
+    "citation_code": "b8706d81ceb4688a655ce516bdfc4b90a654e684320c93545079311d004fac30",
+    "benchmark": "fb0ea1f475f2b11291950669bb02a158f898044be5a48fdd722e10ebd92d12d0"
+  },
+  "interpretation": "Petit lot distinct des articles et familles de développement ; échantillon trop réduit pour une performance générale."
+}

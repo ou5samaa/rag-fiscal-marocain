@@ -1,0 +1,25 @@
+{
+  "model": "qwen3:4b-instruct-2507-q4_K_M",
+  "ollama_version": "0.40.1",
+  "model_digest": "0edcdef34593eac1aa2be9c7d06c432dcf81945adca5eca2f27662c18f168ba0",
+  "model_size_bytes": 2497293803,
+  "base_url": "http://127.0.0.1:11435",
+  "tokenizer_file": "models/qwen3-tokenizer/tokenizer.json",
+  "tokenizer_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+  "tokenizer_revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+  "options": {
+    "num_ctx": 8192,
+    "num_predict": 1200,
+    "temperature": 0,
+    "seed": 0,
+    "stop": [
+      "<|im_end|>",
+      "<|im_start|>"
+    ]
+  },
+  "default_retriever": "hybrid_rrf",
+  "edition_filter": "on",
+  "top_k": 5,
+  "status": "experimental",
+  "semantic_support_verified": false
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Questions supplémentaires sur des familles et articles non utilisés dans les corrections à quatre éditions ; à figer avant toute recherche.",
+  "questions": [
+    {
+      "id": "ht01", "edition": 2023, "article": "61",
+      "family_id": "revenus_fonciers_indemnites_eviction",
+      "question": "Selon le CGI 2023, les indemnités d’éviction versées aux occupants par les propriétaires figurent-elles parmi les revenus fonciers ?",
+      "expected_answer": "Oui. Les indemnités d’éviction versées aux occupants des biens immeubles par leurs propriétaires sont considérées comme des revenus fonciers.",
+      "first_line": 12, "last_line": 13
+    },
+    {
+      "id": "ht02", "edition": 2023, "article": "82",
+      "family_id": "revenu_global_dates_declaration",
+      "question": "Selon le CGI 2023, quelles sont les deux dates limites de déclaration du revenu global selon que le contribuable perçoit ou non des revenus professionnels ?",
+      "expected_answer": "Avant le 1er mars pour les titulaires de revenus autres que professionnels ; avant le 1er mai pour les titulaires de revenus professionnels déterminés selon le résultat net réel ou simplifié.",
+      "first_line": 8, "last_line": 12
+    },
+    {
+      "id": "ht03", "edition": 2024, "article": "85",
+      "family_id": "depart_maroc_declaration_delai",
+      "question": "Selon le CGI 2024, au plus tard quand un contribuable qui cesse d’avoir son domicile fiscal au Maroc doit-il déclarer son revenu global ?",
+      "expected_answer": "Au plus tard trente jours avant la date de son départ.",
+      "first_line": 1, "last_line": 7
+    },
+    {
+      "id": "ht04", "edition": 2024, "article": "96",
+      "family_id": "tva_chiffre_affaires_base",
+      "question": "Selon le CGI 2024, la TVA elle-même entre-t-elle dans le chiffre d’affaires imposable servant de base à la TVA ?",
+      "expected_answer": "Non. Le chiffre d’affaires imposable comprend les prix, recettes accessoires, frais, droits et taxes afférents, à l’exception de la TVA.",
+      "first_line": 1, "last_line": 4
+    },
+    {
+      "id": "ht05", "edition": 2025, "article": "127",
+      "family_id": "enregistrement_mutation_immobilier",
+      "question": "Dans le CGI 2025, quels immeubles et droits réels sont mentionnés au point a) de l’article 127-I-A-1° ?",
+      "expected_answer": "Les immeubles immatriculés ou non immatriculés et les droits réels portant sur de tels immeubles.",
+      "first_line": 20, "last_line": 21
+    },
+    {
+      "id": "ht06", "edition": 2025, "article": "150",
+      "family_id": "cessation_entreprise_declaration_delai",
+      "question": "Selon le CGI 2025, dans quel délai une entreprise doit-elle souscrire la déclaration requise après une cessation ou une transformation visée à l’article 150 ?",
+      "expected_answer": "Dans les quarante-cinq jours à compter de la réalisation du changement concerné.",
+      "first_line": 1, "last_line": 4
+    },
+    {
+      "id": "ht07", "edition": 2026, "article": "111",
+      "family_id": "tva_trimestrielle_delais",
+      "question": "Selon le CGI 2026, quel est le délai de déclaration trimestrielle du chiffre d’affaires, et quel délai s’applique si la déclaration est électronique ?",
+      "expected_answer": "La déclaration ordinaire doit être déposée avant le 20 du premier mois de chaque trimestre ; par procédé électronique, avant l’expiration de ce premier mois.",
+      "first_line": 1, "last_line": 8
+    },
+    {
+      "id": "ht08", "edition": 2026, "article": "151",
+      "family_id": "declaration_remunerations_tiers_nature",
+      "question": "Selon le CGI 2026, quelles catégories de rémunérations allouées à des tiers une entreprise doit-elle déclarer au titre de l’article 151-I ?",
+      "expected_answer": "Les honoraires, commissions, courtages et autres rémunérations similaires, ainsi que les rabais, remises et ristournes accordés après facturation, dans les conditions de l’article 151-I.",
+      "first_line": 1, "last_line": 10
+    }
+  ]
+}

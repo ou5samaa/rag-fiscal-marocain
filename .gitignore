@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+runtime/
+models/ollama/
+models/multilingual-e5-small/model.safetensors
+models/multilingual-e5-small/*.download
+data/mlflow/
+data/candidates/full_cgi/answers/

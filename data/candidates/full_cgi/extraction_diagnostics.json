@@ -1,0 +1,135 @@
+{
+  "status": "candidate_extracted",
+  "schema_version": "1.0",
+  "source_audit_sha256": "bbf7384c94039d73789f29722956008db4c211bebc5bd03c5971465365a3ccff",
+  "config_sha256": "8c0509f89dfb4c306717d6b5ef7011e528dd63425ffe4bc6b2d907d2a1bca312",
+  "artifact_sha256": {
+    "pages.jsonl": "6371ddb328fcf9994e3c991993ae6061167b9c29be30574eda94315e73499883",
+    "articles.jsonl": "5b68e9d4e67a347a15da29873455f4a2f4ba18d4e592c813db21ecf3b4f2be9c",
+    "notes.jsonl": "92200fe76b9ba389e5b6118a02aa5e2f0c1b284213bbfd434e1890dc3675b466",
+    "issues.jsonl": "1f5469069b1deafc13afc1f5a8eb174d87f4e0a1b41258438b7cb570e9286781",
+    "boundaries.jsonl": "adf2d00f19d1e2c09e2110ac86f675ddf1f323f6f01dcd525310efe318b57bb4"
+  },
+  "editions": [
+    {
+      "edition": 2023,
+      "status": "candidate_not_active",
+      "body_pages": 488,
+      "article_count": 349,
+      "main_article_count": 292,
+      "first_article": "1",
+      "last_article": "292",
+      "expected_last_main_article": 292,
+      "missing_main_numbers": [],
+      "duplicate_labels": [],
+      "multi_page_articles": 181,
+      "unassigned_main_lines": [],
+      "note_count": 1641,
+      "note_status_counts": {
+        "identified_by_page_and_superscript": 1622,
+        "unresolved": 19
+      },
+      "issue_count": 38,
+      "issue_counts": {
+        "small_text_not_classified": 7,
+        "body_after_notes": 1,
+        "abrogated_heading_only": 10,
+        "note_attachment_unresolved": 19,
+        "note_reference_without_same_page_note": 1
+      },
+      "pages_without_text": [],
+      "no_indexing_blockers": true
+    },
+    {
+      "edition": 2024,
+      "status": "candidate_not_active",
+      "body_pages": 502,
+      "article_count": 352,
+      "main_article_count": 292,
+      "first_article": "1",
+      "last_article": "292",
+      "expected_last_main_article": 292,
+      "missing_main_numbers": [],
+      "duplicate_labels": [],
+      "multi_page_articles": 187,
+      "unassigned_main_lines": [],
+      "note_count": 1733,
+      "note_status_counts": {
+        "identified_by_page_and_superscript": 1714,
+        "unresolved": 19
+      },
+      "issue_count": 42,
+      "issue_counts": {
+        "small_text_not_classified": 9,
+        "body_after_notes": 1,
+        "abrogated_heading_only": 12,
+        "note_attachment_unresolved": 19,
+        "note_reference_without_same_page_note": 1
+      },
+      "pages_without_text": [],
+      "no_indexing_blockers": true
+    },
+    {
+      "edition": 2025,
+      "status": "candidate_not_active",
+      "body_pages": 519,
+      "article_count": 370,
+      "main_article_count": 303,
+      "first_article": "1",
+      "last_article": "303",
+      "expected_last_main_article": 303,
+      "missing_main_numbers": [],
+      "duplicate_labels": [],
+      "multi_page_articles": 196,
+      "unassigned_main_lines": [],
+      "note_count": 1860,
+      "note_status_counts": {
+        "identified_by_page_and_superscript": 1837,
+        "unresolved": 23
+      },
+      "issue_count": 45,
+      "issue_counts": {
+        "small_text_not_classified": 8,
+        "body_after_notes": 1,
+        "abrogated_heading_only": 12,
+        "note_attachment_unresolved": 23,
+        "note_reference_without_same_page_note": 1
+      },
+      "pages_without_text": [],
+      "no_indexing_blockers": true
+    },
+    {
+      "edition": 2026,
+      "status": "candidate_not_active",
+      "body_pages": 525,
+      "article_count": 372,
+      "main_article_count": 303,
+      "first_article": "1",
+      "last_article": "303",
+      "expected_last_main_article": 303,
+      "missing_main_numbers": [],
+      "duplicate_labels": [],
+      "multi_page_articles": 197,
+      "unassigned_main_lines": [],
+      "note_count": 1932,
+      "note_status_counts": {
+        "identified_by_page_and_superscript": 1909,
+        "unresolved": 23
+      },
+      "issue_count": 50,
+      "issue_counts": {
+        "small_text_not_classified": 13,
+        "body_after_notes": 1,
+        "abrogated_heading_only": 12,
+        "note_attachment_unresolved": 23,
+        "note_reference_without_same_page_note": 1
+      },
+      "pages_without_text": [],
+      "no_indexing_blockers": true
+    }
+  ],
+  "article_count": 1443,
+  "note_count": 7166,
+  "issue_count": 175,
+  "ready_for_candidate_index": true
+}

@@ -1,0 +1,103 @@
+{
+  "question_count": 8,
+  "core_supported_answers": 7,
+  "false_abstentions": 1,
+  "answers_with_valid_citation_structure": 7,
+  "overlong_or_excess_answers": [
+    "ht02"
+  ],
+  "alternative_valid_proof_cases": [
+    "ht08"
+  ],
+  "interpretation": "Lecture ciblée de ce petit lot ; ne pas extrapoler à toutes les dispositions du CGI.",
+  "per_question": [
+    {
+      "id": "ht01",
+      "edition": 2023,
+      "article": "61",
+      "status": "answer",
+      "verdict": "supported",
+      "note": "La réponse cite la catégorie des indemnités et son introduction, mais sa formulation reste elliptique.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 2
+    },
+    {
+      "id": "ht02",
+      "edition": 2023,
+      "article": "82",
+      "status": "answer",
+      "verdict": "supported_with_excess",
+      "note": "Les deux échéances sont correctes et citées ; l’ajout d’exemptions de déclaration non demandées allonge inutilement la réponse.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 5
+    },
+    {
+      "id": "ht03",
+      "edition": 2024,
+      "article": "85",
+      "status": "answer",
+      "verdict": "supported",
+      "note": "Le délai de trente jours avant le départ et son champ sont cités.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 7
+    },
+    {
+      "id": "ht04",
+      "edition": 2024,
+      "article": "96",
+      "status": "abstain",
+      "verdict": "false_abstain",
+      "note": "L’article 96 est classé premier et le contexte dit explicitement « à l’exception de la taxe sur la valeur ajoutée », mais le modèle s’abstient.",
+      "citation_structure_valid": null,
+      "gold_article_cited": false,
+      "cited_gold_line_count": 0
+    },
+    {
+      "id": "ht05",
+      "edition": 2025,
+      "article": "127",
+      "status": "answer",
+      "verdict": "supported",
+      "note": "Les immeubles et droits réels du point a) sont cités, avec leur introduction.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 2
+    },
+    {
+      "id": "ht06",
+      "edition": 2025,
+      "article": "150",
+      "status": "answer",
+      "verdict": "supported",
+      "note": "Le délai de quarante-cinq jours est cité dans l’article 150.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 4
+    },
+    {
+      "id": "ht07",
+      "edition": 2026,
+      "article": "111",
+      "status": "answer",
+      "verdict": "supported",
+      "note": "Les délais ordinaire et électronique sont tous deux cités dans l’article 111.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 8
+    },
+    {
+      "id": "ht08",
+      "edition": 2026,
+      "article": "151",
+      "status": "answer",
+      "verdict": "supported_alternative_proof",
+      "note": "La réponse est appuyée par une autre liste du même article que les lignes de preuve annotées ; le rappel strict de cette preuve est donc nul malgré une réponse soutenue.",
+      "citation_structure_valid": true,
+      "gold_article_cited": true,
+      "cited_gold_line_count": 0
+    }
+  ]
+}

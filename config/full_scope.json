@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "language": "fr",
+  "chunking": {"max_words": 220, "overlap_lines": 2},
+  "layout_source": "config/extraction_scope.json",
+  "editions": {
+    "2023": {"file": "sources/CGI_2023_FR.pdf", "cover_pdf_page": 2, "pdf_pages": 694, "body_start_pdf_page": 5, "body_end_pdf_page": 492, "annex_marker_pdf_page": 493, "first_printed_page": "5", "last_printed_page": "492", "last_article": 292},
+    "2024": {"file": "sources/CGI_2024_FR.pdf", "cover_pdf_page": 1, "pdf_pages": 726, "body_start_pdf_page": 4, "body_end_pdf_page": 505, "annex_marker_pdf_page": 506, "first_printed_page": "5", "last_printed_page": "506", "last_article": 292},
+    "2025": {"file": "sources/CGI_2025_FR.pdf", "cover_pdf_page": 1, "pdf_pages": 750, "body_start_pdf_page": 4, "body_end_pdf_page": 522, "annex_marker_pdf_page": 523, "first_printed_page": "5", "last_printed_page": "523", "last_article": 303},
+    "2026": {"file": "sources/CGI_2026_FR.pdf", "cover_pdf_page": 1, "pdf_pages": 765, "body_start_pdf_page": 5, "body_end_pdf_page": 529, "annex_marker_pdf_page": 530, "first_printed_page": "6", "last_printed_page": "530", "last_article": 303}
+  }
+}

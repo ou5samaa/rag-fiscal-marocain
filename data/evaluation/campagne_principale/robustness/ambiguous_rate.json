@@ -1,0 +1,21 @@
+{
+  "id": "ambiguous_rate",
+  "expected": "abstain",
+  "status": "abstain",
+  "answer": "Précisez l’impôt, l’opération ou l’article concerné pour déterminer le taux dans cette édition.",
+  "citations": [],
+  "error": null,
+  "wall_ms": 42.625399999451474,
+  "gpu_before": {
+    "vram_used_mib": 4686.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 57.23009281875916,
+    "utilization_percent_sample": 2.0
+  },
+  "gpu_after": {
+    "vram_used_mib": 4686.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 57.23009281875916,
+    "utilization_percent_sample": 2.0
+  }
+}

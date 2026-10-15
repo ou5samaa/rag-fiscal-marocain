@@ -1,0 +1,14 @@
+{
+  "status": "completed",
+  "n": 8,
+  "counts": {
+    "answer": 7,
+    "abstain": 1,
+    "rejected": 0,
+    "technical_error": 0
+  },
+  "median_ms": 4789.903400000185,
+  "p95_ms": 19285.416780000916,
+  "max_sampled_vram_percent": 58.15828041035662,
+  "status_only": true
+}

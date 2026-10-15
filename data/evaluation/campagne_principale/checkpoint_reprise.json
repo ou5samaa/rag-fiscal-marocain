@@ -1,0 +1,44 @@
+{
+  "etat": "pause_demandee_par_utilisateur_apres_verification_ciblee",
+  "date": "2026-10-15",
+  "corpus": "quatre_editions_completes_deja_extraites_et_indexees",
+  "chunking_modifie": false,
+  "configuration_active_modifiee": false,
+  "campagne_initiale": "data/experiments/four_edition_evaluation_20261014",
+  "comparaison_recherche_generation": "data/experiments/four_edition_corrections_20261015",
+  "correction_exclusions": "data/experiments/four_edition_focus_20261015",
+  "reprise_apres_rejet": "data/experiments/four_edition_recovery_20261015",
+  "retrieval": {
+    "anciennes_questions_rappel_strict_5": "52/60",
+    "nouvelles_questions_rappel_strict_5": "16/16",
+    "gains_sans_regression_de_rappel": ["q05", "fc02"]
+  },
+  "generation_avant_reprise": {
+    "reponses": 69,
+    "rejets": 7,
+    "abstentions": 0,
+    "erreurs_techniques": 0
+  },
+  "verification_reprise": {
+    "questions_affectees": 7,
+    "reponses_recuperees": ["q13", "q41", "q42", "q52", "q57"],
+    "rejets_restants": ["q27", "q58"],
+    "resultats": "data/experiments/four_edition_recovery_20261015/summary.json",
+    "tous_les_essais_enregistres": true
+  },
+  "tests": "84 tests unitaires reussis avant la verification ciblee de reprise",
+  "robustesse_avant_reprise": "quatre comportements attendus sur quatre et 24 contextes sur 24 dans le budget",
+  "attention": [
+    "Le fichier four_edition_focus_20261015/final_summary.json affiche encore 69 reponses et 7 rejets : il precede la reprise finale.",
+    "Ne pas presenter 74/76 comme mesure finale avant l'audit des cinq nouvelles reponses et des citations.",
+    "Le rapport PDF final et le journal MLflow de cette campagne restent a produire.",
+    "Les resultats anciens et data/mlflow doivent etre conserves integralement."
+  ],
+  "prochaines_actions": [
+    "Auditer la justesse et les citations des cinq reponses recuperees, puis calculer la synthese combinee sur les 76 questions.",
+    "Verifier de nouveau les tests apres le dernier changement de rag_fiscal/ask.py et les cas de robustesse sur le code final.",
+    "Enregistrer la synthese et les artefacts dans MLflow local.",
+    "Produire et verifier le rapport PDF avant/apres, limites et decision sur l'activation de la configuration a quatre editions."
+  ],
+  "serveur_ollama": "arrete_proprement"
+}

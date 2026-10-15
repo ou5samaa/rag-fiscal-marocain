@@ -1,0 +1,49 @@
+{
+  "question_id": "ht05",
+  "family_id": "enregistrement_mutation_immobilier",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2025,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    1
+  ],
+  "first_relevant_rank": 1,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 1,
+  "reciprocal_rank": 1.0,
+  "reciprocal_rank_at_5": 1.0,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "127",
+  "top1_edition": 2025,
+  "top5_ids": [
+    "cgi-2025:f510cca73c15:art-127:passage-0004",
+    "cgi-2025:f510cca73c15:art-127:passage-0009"
+  ],
+  "question": "Dans le CGI 2025, quels immeubles et droits réels sont mentionnés au point a) de l’article 127-I-A-1° ?",
+  "expected_answer": "Les immeubles immatriculés ou non immatriculés et les droits réels portant sur de tels immeubles.",
+  "retrieval_ms": 176.1832999982289,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2025,
+      "article": "127",
+      "id": "cgi-2025:f510cca73c15:art-127:passage-0004"
+    },
+    {
+      "rank": 2,
+      "edition": 2025,
+      "article": "127",
+      "id": "cgi-2025:f510cca73c15:art-127:passage-0009"
+    }
+  ]
+}

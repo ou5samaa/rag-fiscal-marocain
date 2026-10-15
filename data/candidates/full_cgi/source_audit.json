@@ -1,0 +1,120 @@
+{
+  "status": "verified_local_pdf_bytes",
+  "schema_version": "1.0",
+  "scope_sha256": "8c0509f89dfb4c306717d6b5ef7011e528dd63425ffe4bc6b2d907d2a1bca312",
+  "manifest_sha256": "6803ef7b33a65be34afc4a716945af1b142203d5a79fc3139400ab642692e121",
+  "editions": [
+    {
+      "edition": 2023,
+      "source": {
+        "edition": 2023,
+        "language": "fr",
+        "file": "sources/CGI_2023_FR.pdf",
+        "sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+        "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf",
+        "downloaded_at": "2026-10-05T13:54:10.6759708+00:00",
+        "provenance_status": "local_manifest_hash_verified"
+      },
+      "size_bytes": 5897230,
+      "pdf_pages": 694,
+      "cover_pdf_page": 2,
+      "body_start_pdf_page": 5,
+      "body_end_pdf_page": 492,
+      "annex_marker_pdf_page": 493,
+      "first_printed_page": "5",
+      "last_printed_page": "492",
+      "last_article": 292,
+      "body_pages_without_exploitable_text": [],
+      "language_evidence": [
+        "Code général des impôts",
+        "loi de finances",
+        "année budgétaire"
+      ],
+      "boundary_checks_passed": true
+    },
+    {
+      "edition": 2024,
+      "source": {
+        "edition": 2024,
+        "language": "fr",
+        "file": "sources/CGI_2024_FR.pdf",
+        "sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+        "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf",
+        "downloaded_at": "2026-10-05T13:54:13.9986255+00:00",
+        "provenance_status": "local_manifest_hash_verified"
+      },
+      "size_bytes": 6189258,
+      "pdf_pages": 726,
+      "cover_pdf_page": 1,
+      "body_start_pdf_page": 4,
+      "body_end_pdf_page": 505,
+      "annex_marker_pdf_page": 506,
+      "first_printed_page": "5",
+      "last_printed_page": "506",
+      "last_article": 292,
+      "body_pages_without_exploitable_text": [],
+      "language_evidence": [
+        "Code général des impôts",
+        "loi de finances",
+        "année budgétaire"
+      ],
+      "boundary_checks_passed": true
+    },
+    {
+      "edition": 2025,
+      "source": {
+        "edition": 2025,
+        "language": "fr",
+        "file": "sources/CGI_2025_FR.pdf",
+        "sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+        "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf",
+        "downloaded_at": "2026-10-05T13:54:17.2640391+00:00",
+        "provenance_status": "local_manifest_hash_verified"
+      },
+      "size_bytes": 6254114,
+      "pdf_pages": 750,
+      "cover_pdf_page": 1,
+      "body_start_pdf_page": 4,
+      "body_end_pdf_page": 522,
+      "annex_marker_pdf_page": 523,
+      "first_printed_page": "5",
+      "last_printed_page": "523",
+      "last_article": 303,
+      "body_pages_without_exploitable_text": [],
+      "language_evidence": [
+        "Code général des impôts",
+        "loi de finances",
+        "année budgétaire"
+      ],
+      "boundary_checks_passed": true
+    },
+    {
+      "edition": 2026,
+      "source": {
+        "edition": 2026,
+        "language": "fr",
+        "file": "sources/CGI_2026_FR.pdf",
+        "sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+        "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf",
+        "downloaded_at": "2026-10-05T13:54:20.3956076+00:00",
+        "provenance_status": "local_manifest_hash_verified"
+      },
+      "size_bytes": 6417906,
+      "pdf_pages": 765,
+      "cover_pdf_page": 1,
+      "body_start_pdf_page": 5,
+      "body_end_pdf_page": 529,
+      "annex_marker_pdf_page": 530,
+      "first_printed_page": "6",
+      "last_printed_page": "530",
+      "last_article": 303,
+      "body_pages_without_exploitable_text": [],
+      "language_evidence": [
+        "Code général des impôts",
+        "loi de finances",
+        "année budgétaire"
+      ],
+      "boundary_checks_passed": true
+    }
+  ]
+}

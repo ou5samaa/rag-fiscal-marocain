@@ -1,0 +1,10 @@
+{
+  "status": "candidate_chroma_built",
+  "collection": "cgi_full_1cd17224_c99e0795",
+  "count": 9062,
+  "index_sha256": "1cd17224baaeedaead8511d264bc0076f8a8f82c020838fbb1170946eb1f5df6",
+  "vectors_sha256": "c99e0795e92659350bf47605d9eb0f0063188b36529f7549b34d1545d5adcc31",
+  "store": "data/candidates/full_cgi/chroma",
+  "space": "ip",
+  "model": "intfloat/multilingual-e5-small"
+}

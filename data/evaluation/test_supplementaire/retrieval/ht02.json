@@ -1,0 +1,70 @@
+{
+  "question_id": "ht02",
+  "family_id": "revenu_global_dates_declaration",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2023,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    1
+  ],
+  "first_relevant_rank": 1,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 1,
+  "reciprocal_rank": 1.0,
+  "reciprocal_rank_at_5": 1.0,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "82",
+  "top1_edition": 2023,
+  "top5_ids": [
+    "cgi-2023:5442a17c011b:art-82:passage-0001",
+    "cgi-2023:5442a17c011b:art-82:passage-0016",
+    "cgi-2023:5442a17c011b:art-154-bis:passage-0001",
+    "cgi-2023:5442a17c011b:art-221-bis:passage-0002",
+    "cgi-2023:5442a17c011b:art-86:passage-0004"
+  ],
+  "question": "Selon le CGI 2023, quelles sont les deux dates limites de déclaration du revenu global selon que le contribuable perçoit ou non des revenus professionnels ?",
+  "expected_answer": "Avant le 1er mars pour les titulaires de revenus autres que professionnels ; avant le 1er mai pour les titulaires de revenus professionnels déterminés selon le résultat net réel ou simplifié.",
+  "retrieval_ms": 115.36709999927552,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2023,
+      "article": "82",
+      "id": "cgi-2023:5442a17c011b:art-82:passage-0001"
+    },
+    {
+      "rank": 2,
+      "edition": 2023,
+      "article": "82",
+      "id": "cgi-2023:5442a17c011b:art-82:passage-0016"
+    },
+    {
+      "rank": 3,
+      "edition": 2023,
+      "article": "154 bis",
+      "id": "cgi-2023:5442a17c011b:art-154-bis:passage-0001"
+    },
+    {
+      "rank": 4,
+      "edition": 2023,
+      "article": "221 bis",
+      "id": "cgi-2023:5442a17c011b:art-221-bis:passage-0002"
+    },
+    {
+      "rank": 5,
+      "edition": 2023,
+      "article": "86",
+      "id": "cgi-2023:5442a17c011b:art-86:passage-0004"
+    }
+  ]
+}

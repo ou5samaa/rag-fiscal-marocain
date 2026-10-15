@@ -1,0 +1,50 @@
+﻿[
+    {
+        "year":  2023,
+        "file":  "CGI_2023_FR.pdf",
+        "status":  "downloaded",
+        "source_url":  "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf",
+        "sha256":  "5442A17C011B7DFE2A3A39A858F43CDF18E8EB19B20A8B10D49623DAFC131C40",
+        "size_bytes":  5897230,
+        "downloaded_at":  "2026-10-05T13:54:10.6759708+00:00",
+        "prior_attempt_errors":  [
+
+                                 ]
+    },
+    {
+        "year":  2024,
+        "file":  "CGI_2024_FR.pdf",
+        "status":  "downloaded",
+        "source_url":  "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf",
+        "sha256":  "9492F199DB7AF1E582B522763EFAB1121A92C43788BACC303E2CC6F40B7ABF8C",
+        "size_bytes":  6189258,
+        "downloaded_at":  "2026-10-05T13:54:13.9986255+00:00",
+        "prior_attempt_errors":  [
+
+                                 ]
+    },
+    {
+        "year":  2025,
+        "file":  "CGI_2025_FR.pdf",
+        "status":  "downloaded",
+        "source_url":  "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf",
+        "sha256":  "F510CCA73C15FEA490D6D515854F89766555ED756831EF260F2DAE8EB9F2FE75",
+        "size_bytes":  6254114,
+        "downloaded_at":  "2026-10-05T13:54:17.2640391+00:00",
+        "prior_attempt_errors":  [
+
+                                 ]
+    },
+    {
+        "year":  2026,
+        "file":  "CGI_2026_FR.pdf",
+        "status":  "downloaded",
+        "source_url":  "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf",
+        "sha256":  "FE03C94471AEFD23A9BE9DE11DA5BFF0593B45A72C2F90939EEAAE7298B413E1",
+        "size_bytes":  6417906,
+        "downloaded_at":  "2026-10-05T13:54:20.3956076+00:00",
+        "prior_attempt_errors":  [
+
+                                 ]
+    }
+]

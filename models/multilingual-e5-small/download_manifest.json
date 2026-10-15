@@ -1,0 +1,7 @@
+{
+  "model_id": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "downloaded_at": "2026-10-07T15:55:12.574478+00:00",
+  "source": "https://huggingface.co/intfloat/multilingual-e5-small",
+  "license": "MIT"
+}

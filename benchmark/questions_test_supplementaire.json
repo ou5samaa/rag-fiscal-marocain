@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0",
+  "status": "annotated",
+  "scope": "four_complete_editions",
+  "questions": [
+    {
+      "id": "ht01",
+      "edition": 2023,
+      "question": "Selon le CGI 2023, les indemnités d’éviction versées aux occupants par les propriétaires figurent-elles parmi les revenus fonciers ?",
+      "expected_answer": "Oui. Les indemnités d’éviction versées aux occupants des biens immeubles par leurs propriétaires sont considérées comme des revenus fonciers.",
+      "family_id": "revenus_fonciers_indemnites_eviction",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2023,
+          "article": "61",
+          "subdivision_path": [
+            "I",
+            "C"
+          ],
+          "quote": "C.- Les indemnités d’éviction versées aux occupants des biens immeubles par les propriétaires desdits biens.",
+          "pdf_pages": [
+            96
+          ],
+          "printed_pages": [
+            "96"
+          ],
+          "source_sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf"
+        }
+      ],
+      "article_target": "61",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht02",
+      "edition": 2023,
+      "question": "Selon le CGI 2023, quelles sont les deux dates limites de déclaration du revenu global selon que le contribuable perçoit ou non des revenus professionnels ?",
+      "expected_answer": "Avant le 1er mars pour les titulaires de revenus autres que professionnels ; avant le 1er mai pour les titulaires de revenus professionnels déterminés selon le résultat net réel ou simplifié.",
+      "family_id": "revenu_global_dates_declaration",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2023,
+          "article": "82",
+          "subdivision_path": [
+            "I"
+          ],
+          "quote": "- avant le 1er mars de chaque année, pour les titulaires de revenus autres que les revenus professionnels ; - avant le premier mai de chaque année, pour les titulaires de revenus professionnels déterminés selon le régime du résultat net réel ou celui du résultat net simplifié.",
+          "pdf_pages": [
+            123
+          ],
+          "printed_pages": [
+            "123"
+          ],
+          "source_sha256": "5442a17c011b7dfe2a3a39a858f43cdf18e8eb19b20a8b10d49623dafc131c40",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2023/CGI2023FR.pdf"
+        }
+      ],
+      "article_target": "82",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht03",
+      "edition": 2024,
+      "question": "Selon le CGI 2024, au plus tard quand un contribuable qui cesse d’avoir son domicile fiscal au Maroc doit-il déclarer son revenu global ?",
+      "expected_answer": "Au plus tard trente jours avant la date de son départ.",
+      "family_id": "depart_maroc_declaration_delai",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2024,
+          "article": "85",
+          "subdivision_path": [
+            "I"
+          ],
+          "quote": "I.- Le contribuable qui cesse d'avoir au Maroc son domicile fiscal, est tenu d'adresser, par lettre recommandée avec accusé de réception, ou de remettre, contre récépissé, au plus tard trente (30) jours avant la date de son départ, à l'inspecteur des impôts du lieu de son domicile fiscal ou de son principal établissement, la déclaration de son revenu global ou la déclaration prévue à l’article 82 quater ci-dessus pour la période prévue à l'article 27-II ci-dessus.",
+          "pdf_pages": [
+            132
+          ],
+          "printed_pages": [
+            "133"
+          ],
+          "source_sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf"
+        }
+      ],
+      "article_target": "85",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht04",
+      "edition": 2024,
+      "question": "Selon le CGI 2024, la TVA elle-même entre-t-elle dans le chiffre d’affaires imposable servant de base à la TVA ?",
+      "expected_answer": "Non. Le chiffre d’affaires imposable comprend les prix, recettes accessoires, frais, droits et taxes afférents, à l’exception de la TVA.",
+      "family_id": "tva_chiffre_affaires_base",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2024,
+          "article": "96",
+          "subdivision_path": [],
+          "quote": "Le chiffre d'affaires imposable comprend le prix des marchandises, des travaux ou des services et les recettes accessoires qui s'y rapportent, ainsi que les frais, droits et taxes y afférents à l'exception de la taxe sur la valeur ajoutée.",
+          "pdf_pages": [
+            165
+          ],
+          "printed_pages": [
+            "166"
+          ],
+          "source_sha256": "9492f199db7af1e582b522763efab1121a92c43788bacc303e2cc6f40b7abf8c",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/CG-2024-fr.pdf"
+        }
+      ],
+      "article_target": "96",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht05",
+      "edition": 2025,
+      "question": "Dans le CGI 2025, quels immeubles et droits réels sont mentionnés au point a) de l’article 127-I-A-1° ?",
+      "expected_answer": "Les immeubles immatriculés ou non immatriculés et les droits réels portant sur de tels immeubles.",
+      "family_id": "enregistrement_mutation_immobilier",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2025,
+          "article": "127",
+          "subdivision_path": [
+            "I",
+            "A",
+            "1°",
+            "a"
+          ],
+          "quote": "a) d'immeubles, immatriculés ou non immatriculés, ou de droits réels portant sur de tels immeubles ;",
+          "pdf_pages": [
+            222
+          ],
+          "printed_pages": [
+            "223"
+          ],
+          "source_sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf"
+        }
+      ],
+      "article_target": "127",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht06",
+      "edition": 2025,
+      "question": "Selon le CGI 2025, dans quel délai une entreprise doit-elle souscrire la déclaration requise après une cessation ou une transformation visée à l’article 150 ?",
+      "expected_answer": "Dans les quarante-cinq jours à compter de la réalisation du changement concerné.",
+      "family_id": "cessation_entreprise_declaration_delai",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2025,
+          "article": "150",
+          "subdivision_path": [
+            "I"
+          ],
+          "quote": "I.- Les contribuables, qu’ils soient imposables à l’impôt sur les sociétés ou à l’impôt sur le revenu ou qu’ils en soient exonérés, sont tenus de souscrire dans un délai de quarante cinq (45) jours à compter de la date de réalisation de l'un des changements suivants :",
+          "pdf_pages": [
+            274
+          ],
+          "printed_pages": [
+            "275"
+          ],
+          "source_sha256": "f510cca73c15fea490d6d515854f89766555ed756831ef260f2dae8eb9f2fe75",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2024/cgi-2025-fr.pdf"
+        }
+      ],
+      "article_target": "150",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht07",
+      "edition": 2026,
+      "question": "Selon le CGI 2026, quel est le délai de déclaration trimestrielle du chiffre d’affaires, et quel délai s’applique si la déclaration est électronique ?",
+      "expected_answer": "La déclaration ordinaire doit être déposée avant le 20 du premier mois de chaque trimestre ; par procédé électronique, avant l’expiration de ce premier mois.",
+      "family_id": "tva_trimestrielle_delais",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2026,
+          "article": "111",
+          "subdivision_path": [],
+          "quote": "Les contribuables imposés sous le régime de la déclaration trimestrielle doivent déposer, avant le vingt (20) du premier mois de chaque trimestre, auprès du receveur de l’administration fiscale, une déclaration du chiffre d'affaires réalisé au cours du trimestre écoulé et verser, en même temps, la taxe correspondante. Toutefois, pour les contribuables qui effectuent leur déclaration par procédé électronique prévue à l’article 155 ci-dessous, celle-ci doit être souscrite avant l’expiration du premier mois de chaque trimestre.",
+          "pdf_pages": [
+            197
+          ],
+          "printed_pages": [
+            "198"
+          ],
+          "source_sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf"
+        }
+      ],
+      "article_target": "111",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    },
+    {
+      "id": "ht08",
+      "edition": 2026,
+      "question": "Selon le CGI 2026, quelles catégories de rémunérations allouées à des tiers une entreprise doit-elle déclarer au titre de l’article 151-I ?",
+      "expected_answer": "Les honoraires, commissions, courtages et autres rémunérations similaires, ainsi que les rabais, remises et ristournes accordés après facturation, dans les conditions de l’article 151-I.",
+      "family_id": "declaration_remunerations_tiers_nature",
+      "status": "verified",
+      "split": "supplementary_test",
+      "evidence": [
+        {
+          "edition": 2026,
+          "article": "151",
+          "subdivision_path": [
+            "I"
+          ],
+          "quote": "I.- Toute entreprise exerçant une activité au Maroc, y compris les sociétés non résidentes ayant opté pour l'imposition forfaitaire, doit lorsqu'elle alloue à des contribuables inscrits à la taxe professionnelle, à l'impôt sur les sociétés ou à l’impôt sur le revenu des honoraires, commissions, courtages et autres rémunérations de même nature ou des rabais, remises et ristournes accordés après facturation, produire, en même temps que les déclarations prévues aux articles 20, 82, 85 et 150 ci-dessus et dans les délais fixés par lesdits articles, une déclaration des sommes comptabilisées au cours de l'exercice comptable précédent au titre des rémunérations précitées.",
+          "pdf_pages": [
+            282
+          ],
+          "printed_pages": [
+            "283"
+          ],
+          "source_sha256": "fe03c94471aefd23a9be9de11da5bff0593b45a72c2f90939eeaae7298b413e1",
+          "source_url": "https://www.finances.gov.ma/Publication/dgi/2025/CGI-2026-FR.pdf"
+        }
+      ],
+      "article_target": "151",
+      "annotation_method": "lignes exactes du PDF local avant recherche"
+    }
+  ]
+}

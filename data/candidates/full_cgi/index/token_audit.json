@@ -1,0 +1,38 @@
+{
+  "model_limit": 512,
+  "input_format": "passage: Article {article} {title}\\n{text}",
+  "passages": 9062,
+  "max_tokens": 532,
+  "over_limit_count": 4,
+  "over_limit": [
+    {
+      "passage_id": "cgi-2023:5442a17c011b:art-92:passage-0007",
+      "tokens": 532,
+      "tokens_removed_from_model_input": 20,
+      "full_input_sha256": "cc93e271faab8d8595a013843ca172e4802d6332db90b22a677748dd0e405dfe",
+      "retained_token_ids_sha256": "91bc5a1b467ef4c15b9e30360d3c057c382affc859069c1d38d9fbe1da83a7ac"
+    },
+    {
+      "passage_id": "cgi-2024:9492f199db7a:art-92:passage-0007",
+      "tokens": 532,
+      "tokens_removed_from_model_input": 20,
+      "full_input_sha256": "cc93e271faab8d8595a013843ca172e4802d6332db90b22a677748dd0e405dfe",
+      "retained_token_ids_sha256": "91bc5a1b467ef4c15b9e30360d3c057c382affc859069c1d38d9fbe1da83a7ac"
+    },
+    {
+      "passage_id": "cgi-2025:f510cca73c15:art-92:passage-0007",
+      "tokens": 532,
+      "tokens_removed_from_model_input": 20,
+      "full_input_sha256": "cc93e271faab8d8595a013843ca172e4802d6332db90b22a677748dd0e405dfe",
+      "retained_token_ids_sha256": "91bc5a1b467ef4c15b9e30360d3c057c382affc859069c1d38d9fbe1da83a7ac"
+    },
+    {
+      "passage_id": "cgi-2026:fe03c94471ae:art-92:passage-0007",
+      "tokens": 532,
+      "tokens_removed_from_model_input": 20,
+      "full_input_sha256": "cc93e271faab8d8595a013843ca172e4802d6332db90b22a677748dd0e405dfe",
+      "retained_token_ids_sha256": "91bc5a1b467ef4c15b9e30360d3c057c382affc859069c1d38d9fbe1da83a7ac"
+    }
+  ],
+  "policy": "full_passage_and_bm25_unchanged; explicit_model_limit_512_for_listed_inputs"
+}

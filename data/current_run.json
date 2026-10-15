@@ -1,0 +1,9 @@
+{
+  "scope": "full_cgi_candidate",
+  "active_extraction": "data/candidates/full_cgi",
+  "active_index": "data/candidates/full_cgi/index/index.json",
+  "active_vector_store": "data/candidates/full_cgi/chroma",
+  "active_benchmark": "benchmark/questions_evaluation.json",
+  "system_config": "config/system.json",
+  "generation_config": "config/generation.json"
+}

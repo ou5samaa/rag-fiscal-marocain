@@ -1,0 +1,175 @@
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0295:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0295:l021"}
+{"code": "body_after_notes", "line_id": "cgi-2023:p0296:l024"}
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0303:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0303:l022"}
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0303:l031"}
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0337:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2023:p0463:l023"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-82-ter"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-97"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-100"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-145-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-178"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-197"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-202"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-212-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-229-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2023:5442a17c011b:art-276"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0152:note493", "candidates": ["cgi-2023:5442a17c011b:art-92"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0241:note837", "candidates": ["cgi-2023:5442a17c011b:art-137"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0250:note862", "candidates": ["cgi-2023:5442a17c011b:art-144"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0264:note907", "candidates": ["cgi-2023:5442a17c011b:art-151", "cgi-2023:5442a17c011b:art-152"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0296:note1003", "candidates": ["cgi-2023:5442a17c011b:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0296:note1010", "candidates": ["cgi-2023:5442a17c011b:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0302:note1030", "candidates": ["cgi-2023:5442a17c011b:art-171", "cgi-2023:5442a17c011b:art-172"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0313:note1069", "candidates": ["cgi-2023:5442a17c011b:art-176", "cgi-2023:5442a17c011b:art-177", "cgi-2023:5442a17c011b:art-178", "cgi-2023:5442a17c011b:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0313:note1070", "candidates": ["cgi-2023:5442a17c011b:art-176", "cgi-2023:5442a17c011b:art-177", "cgi-2023:5442a17c011b:art-178", "cgi-2023:5442a17c011b:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0328:note1128", "candidates": ["cgi-2023:5442a17c011b:art-188", "cgi-2023:5442a17c011b:art-189", "cgi-2023:5442a17c011b:art-190", "cgi-2023:5442a17c011b:art-191"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0337:note1163", "candidates": ["cgi-2023:5442a17c011b:art-199-bis", "cgi-2023:5442a17c011b:art-200"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0341:note1175", "candidates": ["cgi-2023:5442a17c011b:art-207", "cgi-2023:5442a17c011b:art-207-bis"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0342:note1177", "candidates": ["cgi-2023:5442a17c011b:art-207-bis", "cgi-2023:5442a17c011b:art-207-ter"]}
+{"code": "note_reference_without_same_page_note", "line_id": "cgi-2023:p0378:l026", "label": "3"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0454:note1539", "candidates": ["cgi-2023:5442a17c011b:art-249", "cgi-2023:5442a17c011b:art-250"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0466:note1577", "candidates": ["cgi-2023:5442a17c011b:art-253", "cgi-2023:5442a17c011b:art-254", "cgi-2023:5442a17c011b:art-255"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0476:note1622", "candidates": ["cgi-2023:5442a17c011b:art-267", "cgi-2023:5442a17c011b:art-268"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0479:note1627", "candidates": ["cgi-2023:5442a17c011b:art-274", "cgi-2023:5442a17c011b:art-275"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0483:note1633", "candidates": ["cgi-2023:5442a17c011b:art-280"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2023:p0490:note1641", "candidates": ["cgi-2023:5442a17c011b:art-288", "cgi-2023:5442a17c011b:art-289"]}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0102:l028"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0102:l031"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0302:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0302:l021"}
+{"code": "body_after_notes", "line_id": "cgi-2024:p0303:l024"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0310:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0310:l022"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0310:l031"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0345:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2024:p0476:l023"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-82-ter"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-97"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-98"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-100"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-145-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-165"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-178"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-197"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-202"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-212-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-229-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2024:9492f199db7a:art-276"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0153:note518", "candidates": ["cgi-2024:9492f199db7a:art-92"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0247:note901", "candidates": ["cgi-2024:9492f199db7a:art-137"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0258:note929", "candidates": ["cgi-2024:9492f199db7a:art-144", "cgi-2024:9492f199db7a:art-145"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0271:note974", "candidates": ["cgi-2024:9492f199db7a:art-151", "cgi-2024:9492f199db7a:art-152"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0303:note1065", "candidates": ["cgi-2024:9492f199db7a:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0303:note1072", "candidates": ["cgi-2024:9492f199db7a:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0309:note1093", "candidates": ["cgi-2024:9492f199db7a:art-171", "cgi-2024:9492f199db7a:art-172"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0321:note1135", "candidates": ["cgi-2024:9492f199db7a:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0321:note1136", "candidates": ["cgi-2024:9492f199db7a:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0336:note1195", "candidates": ["cgi-2024:9492f199db7a:art-188", "cgi-2024:9492f199db7a:art-189", "cgi-2024:9492f199db7a:art-190", "cgi-2024:9492f199db7a:art-191"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0345:note1230", "candidates": ["cgi-2024:9492f199db7a:art-199-bis", "cgi-2024:9492f199db7a:art-200"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0349:note1245", "candidates": ["cgi-2024:9492f199db7a:art-206", "cgi-2024:9492f199db7a:art-207", "cgi-2024:9492f199db7a:art-207-bis"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0350:note1247", "candidates": ["cgi-2024:9492f199db7a:art-207-bis", "cgi-2024:9492f199db7a:art-207-ter"]}
+{"code": "note_reference_without_same_page_note", "line_id": "cgi-2024:p0390:l013", "label": "3"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0467:note1631", "candidates": ["cgi-2024:9492f199db7a:art-249", "cgi-2024:9492f199db7a:art-250"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0479:note1669", "candidates": ["cgi-2024:9492f199db7a:art-253", "cgi-2024:9492f199db7a:art-254", "cgi-2024:9492f199db7a:art-255"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0489:note1714", "candidates": ["cgi-2024:9492f199db7a:art-267", "cgi-2024:9492f199db7a:art-268"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0492:note1719", "candidates": ["cgi-2024:9492f199db7a:art-274", "cgi-2024:9492f199db7a:art-275"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0496:note1725", "candidates": ["cgi-2024:9492f199db7a:art-280"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2024:p0503:note1733", "candidates": ["cgi-2024:9492f199db7a:art-288", "cgi-2024:9492f199db7a:art-289"]}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0106:l028"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0106:l031"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0311:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0311:l021"}
+{"code": "body_after_notes", "line_id": "cgi-2025:p0312:l024"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0319:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0319:l023"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0355:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2025:p0489:l028"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-82-ter"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-97"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-98"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-100"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-145-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-165"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-178"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-197"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-202"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-212-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-229-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2025:f510cca73c15:art-276"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0114:note400", "candidates": ["cgi-2025:f510cca73c15:art-70", "cgi-2025:f510cca73c15:art-70-bis"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0159:note581", "candidates": ["cgi-2025:f510cca73c15:art-92"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0254:note983", "candidates": ["cgi-2025:f510cca73c15:art-137"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0265:note1013", "candidates": ["cgi-2025:f510cca73c15:art-144", "cgi-2025:f510cca73c15:art-145"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0278:note1060", "candidates": ["cgi-2025:f510cca73c15:art-151", "cgi-2025:f510cca73c15:art-152"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0312:note1163", "candidates": ["cgi-2025:f510cca73c15:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0312:note1170", "candidates": ["cgi-2025:f510cca73c15:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0318:note1191", "candidates": ["cgi-2025:f510cca73c15:art-171", "cgi-2025:f510cca73c15:art-172"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0331:note1236", "candidates": ["cgi-2025:f510cca73c15:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0331:note1237", "candidates": ["cgi-2025:f510cca73c15:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0346:note1297", "candidates": ["cgi-2025:f510cca73c15:art-188", "cgi-2025:f510cca73c15:art-189", "cgi-2025:f510cca73c15:art-190", "cgi-2025:f510cca73c15:art-191"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0355:note1332", "candidates": ["cgi-2025:f510cca73c15:art-199-bis", "cgi-2025:f510cca73c15:art-200"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0361:note1350", "candidates": ["cgi-2025:f510cca73c15:art-207", "cgi-2025:f510cca73c15:art-207-bis"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0362:note1352", "candidates": ["cgi-2025:f510cca73c15:art-207-bis", "cgi-2025:f510cca73c15:art-207-ter"]}
+{"code": "note_reference_without_same_page_note", "line_id": "cgi-2025:p0403:l023", "label": "3"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0480:note1754", "candidates": ["cgi-2025:f510cca73c15:art-249", "cgi-2025:f510cca73c15:art-250"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0492:note1793", "candidates": ["cgi-2025:f510cca73c15:art-253", "cgi-2025:f510cca73c15:art-254"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0499:note1824", "candidates": ["cgi-2025:f510cca73c15:art-262"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0502:note1839", "candidates": ["cgi-2025:f510cca73c15:art-267", "cgi-2025:f510cca73c15:art-268"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0505:note1844", "candidates": ["cgi-2025:f510cca73c15:art-274", "cgi-2025:f510cca73c15:art-275"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0509:note1850", "candidates": ["cgi-2025:f510cca73c15:art-280"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0516:note1858", "candidates": ["cgi-2025:f510cca73c15:art-288", "cgi-2025:f510cca73c15:art-289"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0519:note1859", "candidates": ["cgi-2025:f510cca73c15:art-293", "cgi-2025:f510cca73c15:art-294", "cgi-2025:f510cca73c15:art-295", "cgi-2025:f510cca73c15:art-296"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2025:p0521:note1860", "candidates": ["cgi-2025:f510cca73c15:art-298", "cgi-2025:f510cca73c15:art-299", "cgi-2025:f510cca73c15:art-300", "cgi-2025:f510cca73c15:art-301"]}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l024"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l025"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l026"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l028"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l029"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l030"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0243:l031"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0316:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0316:l021"}
+{"code": "body_after_notes", "line_id": "cgi-2026:p0317:l024"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0324:l020"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0324:l023"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0359:l024"}
+{"code": "small_text_not_classified", "line_id": "cgi-2026:p0496:l028"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-82-ter"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-97"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-98"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-100"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-145-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-165"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-178"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-197"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-202"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-212-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-229-bis"}
+{"code": "abrogated_heading_only", "article_id": "cgi-2026:fe03c94471ae:art-276"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0117:note414", "candidates": ["cgi-2026:fe03c94471ae:art-70-bis", "cgi-2026:fe03c94471ae:art-71", "cgi-2026:fe03c94471ae:art-72"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0163:note601", "candidates": ["cgi-2026:fe03c94471ae:art-92"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0259:note1021", "candidates": ["cgi-2026:fe03c94471ae:art-137"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0270:note1051", "candidates": ["cgi-2026:fe03c94471ae:art-144", "cgi-2026:fe03c94471ae:art-145"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0283:note1102", "candidates": ["cgi-2026:fe03c94471ae:art-151", "cgi-2026:fe03c94471ae:art-152"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0317:note1212", "candidates": ["cgi-2026:fe03c94471ae:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0317:note1219", "candidates": ["cgi-2026:fe03c94471ae:art-169"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0323:note1242", "candidates": ["cgi-2026:fe03c94471ae:art-171", "cgi-2026:fe03c94471ae:art-172"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0335:note1289", "candidates": ["cgi-2026:fe03c94471ae:art-176", "cgi-2026:fe03c94471ae:art-177", "cgi-2026:fe03c94471ae:art-178", "cgi-2026:fe03c94471ae:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0335:note1290", "candidates": ["cgi-2026:fe03c94471ae:art-176", "cgi-2026:fe03c94471ae:art-177", "cgi-2026:fe03c94471ae:art-178", "cgi-2026:fe03c94471ae:art-179"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0350:note1353", "candidates": ["cgi-2026:fe03c94471ae:art-188", "cgi-2026:fe03c94471ae:art-189", "cgi-2026:fe03c94471ae:art-190", "cgi-2026:fe03c94471ae:art-191"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0359:note1390", "candidates": ["cgi-2026:fe03c94471ae:art-199-bis", "cgi-2026:fe03c94471ae:art-200"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0365:note1408", "candidates": ["cgi-2026:fe03c94471ae:art-206-bis", "cgi-2026:fe03c94471ae:art-207", "cgi-2026:fe03c94471ae:art-207-bis"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0366:note1410", "candidates": ["cgi-2026:fe03c94471ae:art-207-bis", "cgi-2026:fe03c94471ae:art-207-ter"]}
+{"code": "note_reference_without_same_page_note", "line_id": "cgi-2026:p0408:l002", "label": "3"}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0487:note1826", "candidates": ["cgi-2026:fe03c94471ae:art-249", "cgi-2026:fe03c94471ae:art-250"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0499:note1865", "candidates": ["cgi-2026:fe03c94471ae:art-253", "cgi-2026:fe03c94471ae:art-254"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0506:note1896", "candidates": ["cgi-2026:fe03c94471ae:art-262"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0509:note1911", "candidates": ["cgi-2026:fe03c94471ae:art-267", "cgi-2026:fe03c94471ae:art-268"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0512:note1916", "candidates": ["cgi-2026:fe03c94471ae:art-274", "cgi-2026:fe03c94471ae:art-275"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0516:note1922", "candidates": ["cgi-2026:fe03c94471ae:art-280"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0523:note1930", "candidates": ["cgi-2026:fe03c94471ae:art-288", "cgi-2026:fe03c94471ae:art-289"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0526:note1931", "candidates": ["cgi-2026:fe03c94471ae:art-293", "cgi-2026:fe03c94471ae:art-294", "cgi-2026:fe03c94471ae:art-295", "cgi-2026:fe03c94471ae:art-296"]}
+{"code": "note_attachment_unresolved", "note_id": "cgi-2026:p0528:note1932", "candidates": ["cgi-2026:fe03c94471ae:art-298", "cgi-2026:fe03c94471ae:art-299", "cgi-2026:fe03c94471ae:art-300", "cgi-2026:fe03c94471ae:art-301"]}

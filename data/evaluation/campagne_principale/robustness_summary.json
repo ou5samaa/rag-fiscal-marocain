@@ -1,0 +1,263 @@
+{
+  "responses": [
+    {
+      "id": "conflicting_edition",
+      "expected": "edition_conflict",
+      "status": "edition_conflict",
+      "answer": "L’édition mentionnée dans la question ne correspond pas à celle sélectionnée. Reformulez ou changez --edition.",
+      "citations": [],
+      "error": null,
+      "wall_ms": 41.13580000012007,
+      "gpu_before": {
+        "vram_used_mib": 285.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 3.480703468490474,
+        "utilization_percent_sample": 20.0
+      },
+      "gpu_after": {
+        "vram_used_mib": 285.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 3.480703468490474,
+        "utilization_percent_sample": 20.0
+      }
+    },
+    {
+      "id": "outside_topic",
+      "expected": "abstain",
+      "status": "abstain",
+      "answer": "Les passages retrouvés ne permettent pas de répondre avec suffisamment de preuves dans cette édition.",
+      "citations": [],
+      "error": null,
+      "wall_ms": 73275.85320000071,
+      "gpu_before": {
+        "vram_used_mib": 285.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 3.480703468490474,
+        "utilization_percent_sample": 25.0
+      },
+      "gpu_after": {
+        "vram_used_mib": 4683.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 57.193453834880316,
+        "utilization_percent_sample": 93.0
+      }
+    },
+    {
+      "id": "ambiguous_rate",
+      "expected": "abstain",
+      "status": "abstain",
+      "answer": "Précisez l’impôt, l’opération ou l’article concerné pour déterminer le taux dans cette édition.",
+      "citations": [],
+      "error": null,
+      "wall_ms": 42.625399999451474,
+      "gpu_before": {
+        "vram_used_mib": 4686.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 57.23009281875916,
+        "utilization_percent_sample": 2.0
+      },
+      "gpu_after": {
+        "vram_used_mib": 4686.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 57.23009281875916,
+        "utilization_percent_sample": 2.0
+      }
+    },
+    {
+      "id": "missing_in_article",
+      "expected": "abstain",
+      "status": "abstain",
+      "answer": "Les passages retrouvés ne permettent pas de répondre avec suffisamment de preuves dans cette édition.",
+      "citations": [],
+      "error": null,
+      "wall_ms": 1693.851200001518,
+      "gpu_before": {
+        "vram_used_mib": 4686.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 57.23009281875916,
+        "utilization_percent_sample": 9.0
+      },
+      "gpu_after": {
+        "vram_used_mib": 4684.0,
+        "vram_total_mib": 8188.0,
+        "vram_percent": 57.2056668295066,
+        "utilization_percent_sample": 95.0
+      }
+    }
+  ],
+  "all_expected_statuses_met": true,
+  "context_stress": [
+    {
+      "edition": 2023,
+      "article": 60,
+      "status": "fits",
+      "prompt_tokens": 1891,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2023,
+      "article": 170,
+      "status": "fits",
+      "prompt_tokens": 1134,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2023,
+      "article": 220,
+      "status": "fits",
+      "prompt_tokens": 1330,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2023,
+      "article": 247,
+      "status": "fits",
+      "prompt_tokens": 1561,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2023,
+      "article": 250,
+      "status": "fits",
+      "prompt_tokens": 1142,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2023,
+      "article": 260,
+      "status": "fits",
+      "prompt_tokens": 3411,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2024,
+      "article": 60,
+      "status": "fits",
+      "prompt_tokens": 1891,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2024,
+      "article": 170,
+      "status": "fits",
+      "prompt_tokens": 1134,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2024,
+      "article": 220,
+      "status": "fits",
+      "prompt_tokens": 1383,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2024,
+      "article": 247,
+      "status": "fits",
+      "prompt_tokens": 2060,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2024,
+      "article": 250,
+      "status": "fits",
+      "prompt_tokens": 1668,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2024,
+      "article": 260,
+      "status": "fits",
+      "prompt_tokens": 3411,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2025,
+      "article": 60,
+      "status": "fits",
+      "prompt_tokens": 1891,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2025,
+      "article": 170,
+      "status": "fits",
+      "prompt_tokens": 1134,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2025,
+      "article": 220,
+      "status": "fits",
+      "prompt_tokens": 1330,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2025,
+      "article": 247,
+      "status": "fits",
+      "prompt_tokens": 3424,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2025,
+      "article": 250,
+      "status": "fits",
+      "prompt_tokens": 1142,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2025,
+      "article": 260,
+      "status": "fits",
+      "prompt_tokens": 3411,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2026,
+      "article": 60,
+      "status": "fits",
+      "prompt_tokens": 1891,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2026,
+      "article": 170,
+      "status": "fits",
+      "prompt_tokens": 1134,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2026,
+      "article": 220,
+      "status": "fits",
+      "prompt_tokens": 1330,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2026,
+      "article": 247,
+      "status": "fits",
+      "prompt_tokens": 2369,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2026,
+      "article": 250,
+      "status": "fits",
+      "prompt_tokens": 1662,
+      "expansions_skipped": 0
+    },
+    {
+      "edition": 2026,
+      "article": 260,
+      "status": "fits",
+      "prompt_tokens": 3411,
+      "expansions_skipped": 0
+    }
+  ],
+  "context_fits": 24,
+  "context_prompt_tokens_max": 3424,
+  "context_expansions_skipped": 0,
+  "latency_ms_median": 868.2383000004847
+}

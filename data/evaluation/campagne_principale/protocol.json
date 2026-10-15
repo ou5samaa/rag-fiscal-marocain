@@ -1,0 +1,33 @@
+{
+  "status": "frozen_before_recovery",
+  "question_count": 76,
+  "affected_ids": [
+    "q13",
+    "q27",
+    "q41",
+    "q42",
+    "q52",
+    "q57",
+    "q58"
+  ],
+  "unaffected_count": 69,
+  "code_sha256": {
+    "rag_fiscal/ask.py": "dd521a362d7318c5b9f90628e70bf30ff1f40ebb600638e3626012a0890f0bf0",
+    "rag_fiscal/answer_checks.py": "b8706d81ceb4688a655ce516bdfc4b90a654e684320c93545079311d004fac30",
+    "rag_fiscal/context.py": "e84f58984e3684c206dde4a55607d26bf7379c865a3591710cb91899f1875744",
+    "rag_fiscal/generate_spans.py": "9bee234b788ede6ee5b589d78ea85dbff6397921a4f7d5ad4a494851d24f0284",
+    "rag_fiscal/candidate_retrieve.py": "61c5a7d5cc84bc5f7c7559653b595d48810d250945dfb8a91882bd3d4c74a1ff"
+  },
+  "index_sha256": "1cd17224baaeedaead8511d264bc0076f8a8f82c020838fbb1170946eb1f5df6",
+  "configuration": {
+    "vector_backend": "chroma",
+    "generation_mode": "spans",
+    "context_mode": "parents",
+    "citation_mode": "blocks",
+    "citation_block_policy": "verified_blocks"
+  },
+  "first_protocol_sha256": "2747226dae3d1c5ae0413e27551a984b4aa4314a36a70ce428893819a0caa3ee",
+  "focus_protocol_sha256": "d5db776d5b9ff48f07e1fcc4dd432cbda131adb34309ae16ef7ee64ce6eb7be5",
+  "chunking_unchanged": true,
+  "active_configuration_unchanged": true
+}

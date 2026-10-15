@@ -1,0 +1,33 @@
+{
+  "affected_ids": [
+    "q13",
+    "q27",
+    "q41",
+    "q42",
+    "q52",
+    "q57",
+    "q58"
+  ],
+  "unaffected_count": 69,
+  "status": {
+    "q13": "answer",
+    "q27": "rejected",
+    "q41": "answer",
+    "q42": "answer",
+    "q52": "answer",
+    "q57": "answer",
+    "q58": "rejected"
+  },
+  "recovered": [
+    "q13",
+    "q41",
+    "q42",
+    "q52",
+    "q57"
+  ],
+  "remaining_rejections": [
+    "q27",
+    "q58"
+  ],
+  "all_results_logged": true
+}

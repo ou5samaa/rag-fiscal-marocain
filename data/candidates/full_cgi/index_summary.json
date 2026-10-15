@@ -1,0 +1,26 @@
+{
+  "status": "candidate_bm25_built",
+  "index_sha256": "1cd17224baaeedaead8511d264bc0076f8a8f82c020838fbb1170946eb1f5df6",
+  "passages_sha256": "2b6f9690349ed3f843428b620ca0afc4cfd962782456f150ea76e0bd00f16578",
+  "documents": 9062,
+  "by_edition": {
+    "2023": 2208,
+    "2024": 2239,
+    "2025": 2296,
+    "2026": 2319
+  },
+  "vocabulary_size": 5969,
+  "chunking": {
+    "max_words": 220,
+    "overlap_lines": 2
+  },
+  "regression": {
+    "active_passages_compared": 511,
+    "same_chunking_and_text": true,
+    "active_chunking": {
+      "max_words": 220,
+      "overlap_lines": 2
+    }
+  },
+  "source_articles": 1443
+}

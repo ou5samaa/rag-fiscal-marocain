@@ -1,0 +1,70 @@
+{
+  "question_id": "ht01",
+  "family_id": "revenus_fonciers_indemnites_eviction",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2023,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    1
+  ],
+  "first_relevant_rank": 1,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 1,
+  "reciprocal_rank": 1.0,
+  "reciprocal_rank_at_5": 1.0,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "61",
+  "top1_edition": 2023,
+  "top5_ids": [
+    "cgi-2023:5442a17c011b:art-61:passage-0006",
+    "cgi-2023:5442a17c011b:art-154-bis:passage-0001",
+    "cgi-2023:5442a17c011b:art-160-bis:passage-0001",
+    "cgi-2023:5442a17c011b:art-61:passage-0005",
+    "cgi-2023:5442a17c011b:art-247:passage-0066"
+  ],
+  "question": "Selon le CGI 2023, les indemnités d’éviction versées aux occupants par les propriétaires figurent-elles parmi les revenus fonciers ?",
+  "expected_answer": "Oui. Les indemnités d’éviction versées aux occupants des biens immeubles par leurs propriétaires sont considérées comme des revenus fonciers.",
+  "retrieval_ms": 357.09850000057486,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2023,
+      "article": "61",
+      "id": "cgi-2023:5442a17c011b:art-61:passage-0006"
+    },
+    {
+      "rank": 2,
+      "edition": 2023,
+      "article": "154 bis",
+      "id": "cgi-2023:5442a17c011b:art-154-bis:passage-0001"
+    },
+    {
+      "rank": 3,
+      "edition": 2023,
+      "article": "160 bis",
+      "id": "cgi-2023:5442a17c011b:art-160-bis:passage-0001"
+    },
+    {
+      "rank": 4,
+      "edition": 2023,
+      "article": "61",
+      "id": "cgi-2023:5442a17c011b:art-61:passage-0005"
+    },
+    {
+      "rank": 5,
+      "edition": 2023,
+      "article": "247",
+      "id": "cgi-2023:5442a17c011b:art-247:passage-0066"
+    }
+  ]
+}

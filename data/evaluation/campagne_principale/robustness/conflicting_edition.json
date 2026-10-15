@@ -1,0 +1,21 @@
+{
+  "id": "conflicting_edition",
+  "expected": "edition_conflict",
+  "status": "edition_conflict",
+  "answer": "L’édition mentionnée dans la question ne correspond pas à celle sélectionnée. Reformulez ou changez --edition.",
+  "citations": [],
+  "error": null,
+  "wall_ms": 41.13580000012007,
+  "gpu_before": {
+    "vram_used_mib": 285.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 3.480703468490474,
+    "utilization_percent_sample": 20.0
+  },
+  "gpu_after": {
+    "vram_used_mib": 285.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 3.480703468490474,
+    "utilization_percent_sample": 20.0
+  }
+}

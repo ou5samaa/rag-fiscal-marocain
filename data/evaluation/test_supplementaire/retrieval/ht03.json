@@ -1,0 +1,70 @@
+{
+  "question_id": "ht03",
+  "family_id": "depart_maroc_declaration_delai",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2024,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    3
+  ],
+  "first_relevant_rank": 3,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 0,
+  "reciprocal_rank": 0.3333333333333333,
+  "reciprocal_rank_at_5": 0.3333333333333333,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "27",
+  "top1_edition": 2024,
+  "top5_ids": [
+    "cgi-2024:9492f199db7a:art-27:passage-0002",
+    "cgi-2024:9492f199db7a:art-27:passage-0001",
+    "cgi-2024:9492f199db7a:art-85:passage-0001",
+    "cgi-2024:9492f199db7a:art-175:passage-0001",
+    "cgi-2024:9492f199db7a:art-23:passage-0005"
+  ],
+  "question": "Selon le CGI 2024, au plus tard quand un contribuable qui cesse d’avoir son domicile fiscal au Maroc doit-il déclarer son revenu global ?",
+  "expected_answer": "Au plus tard trente jours avant la date de son départ.",
+  "retrieval_ms": 126.29699999888544,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2024,
+      "article": "27",
+      "id": "cgi-2024:9492f199db7a:art-27:passage-0002"
+    },
+    {
+      "rank": 2,
+      "edition": 2024,
+      "article": "27",
+      "id": "cgi-2024:9492f199db7a:art-27:passage-0001"
+    },
+    {
+      "rank": 3,
+      "edition": 2024,
+      "article": "85",
+      "id": "cgi-2024:9492f199db7a:art-85:passage-0001"
+    },
+    {
+      "rank": 4,
+      "edition": 2024,
+      "article": "175",
+      "id": "cgi-2024:9492f199db7a:art-175:passage-0001"
+    },
+    {
+      "rank": 5,
+      "edition": 2024,
+      "article": "23",
+      "id": "cgi-2024:9492f199db7a:art-23:passage-0005"
+    }
+  ]
+}

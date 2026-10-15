@@ -1,0 +1,10 @@
+# Environnement local : extraction, audit et comparaison des moteurs.
+PyMuPDF==1.28.2
+sentence-transformers==6.1.0
+# Versions transitives installées : requirements.lock.txt
+
+chromadb==1.5.9
+mlflow==3.17.0
+
+# Interface locale de démonstration
+streamlit==1.65.0

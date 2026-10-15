@@ -1,0 +1,561 @@
+{
+  "status": "completed",
+  "n": 8,
+  "metrics": {
+    "n": 8,
+    "strict_recall_at_5": 0.875,
+    "hit_at_1": 0.625,
+    "mrr_at_5": 0.7291666666666666,
+    "union_recall_at_5": 0.875,
+    "index_oracle_recall": 1.0,
+    "wrong_edition_top5_cases": 0,
+    "latency_ms_median": 131.88615000035497,
+    "latency_ms_p95": 294.69360500152095
+  },
+  "by_edition": {
+    "2023": {
+      "n": 2,
+      "strict_recall_at_5": 1.0,
+      "hit_at_1": 1,
+      "mrr_at_5": 1.0,
+      "union_recall_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "wrong_edition_top5_cases": 0,
+      "latency_ms_median": 236.2327999999252,
+      "latency_ms_p95": 345.0119300005099
+    },
+    "2024": {
+      "n": 2,
+      "strict_recall_at_5": 1.0,
+      "hit_at_1": 0.5,
+      "mrr_at_5": 0.6666666666666666,
+      "union_recall_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "wrong_edition_top5_cases": 0,
+      "latency_ms_median": 130.58694999926956,
+      "latency_ms_p95": 134.44790499961528
+    },
+    "2025": {
+      "n": 2,
+      "strict_recall_at_5": 1.0,
+      "hit_at_1": 0.5,
+      "mrr_at_5": 0.75,
+      "union_recall_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "wrong_edition_top5_cases": 0,
+      "latency_ms_median": 146.92149999791582,
+      "latency_ms_p95": 173.2571199981976
+    },
+    "2026": {
+      "n": 2,
+      "strict_recall_at_5": 0.5,
+      "hit_at_1": 0.5,
+      "mrr_at_5": 0.5,
+      "union_recall_at_5": 0.5,
+      "index_oracle_recall": 1.0,
+      "wrong_edition_top5_cases": 0,
+      "latency_ms_median": 153.84710000216728,
+      "latency_ms_p95": 176.3036300031672
+    }
+  },
+  "protocol_sha256": "4798601419b1bffd0998e91ece0972c770233abf523055277580a3d1982ae916",
+  "per_question": [
+    {
+      "question_id": "ht01",
+      "family_id": "revenus_fonciers_indemnites_eviction",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2023,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        1
+      ],
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 1,
+      "reciprocal_rank": 1.0,
+      "reciprocal_rank_at_5": 1.0,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "61",
+      "top1_edition": 2023,
+      "top5_ids": [
+        "cgi-2023:5442a17c011b:art-61:passage-0006",
+        "cgi-2023:5442a17c011b:art-154-bis:passage-0001",
+        "cgi-2023:5442a17c011b:art-160-bis:passage-0001",
+        "cgi-2023:5442a17c011b:art-61:passage-0005",
+        "cgi-2023:5442a17c011b:art-247:passage-0066"
+      ],
+      "question": "Selon le CGI 2023, les indemnités d’éviction versées aux occupants par les propriétaires figurent-elles parmi les revenus fonciers ?",
+      "expected_answer": "Oui. Les indemnités d’éviction versées aux occupants des biens immeubles par leurs propriétaires sont considérées comme des revenus fonciers.",
+      "retrieval_ms": 357.09850000057486,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2023,
+          "article": "61",
+          "id": "cgi-2023:5442a17c011b:art-61:passage-0006"
+        },
+        {
+          "rank": 2,
+          "edition": 2023,
+          "article": "154 bis",
+          "id": "cgi-2023:5442a17c011b:art-154-bis:passage-0001"
+        },
+        {
+          "rank": 3,
+          "edition": 2023,
+          "article": "160 bis",
+          "id": "cgi-2023:5442a17c011b:art-160-bis:passage-0001"
+        },
+        {
+          "rank": 4,
+          "edition": 2023,
+          "article": "61",
+          "id": "cgi-2023:5442a17c011b:art-61:passage-0005"
+        },
+        {
+          "rank": 5,
+          "edition": 2023,
+          "article": "247",
+          "id": "cgi-2023:5442a17c011b:art-247:passage-0066"
+        }
+      ]
+    },
+    {
+      "question_id": "ht02",
+      "family_id": "revenu_global_dates_declaration",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2023,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        1
+      ],
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 1,
+      "reciprocal_rank": 1.0,
+      "reciprocal_rank_at_5": 1.0,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "82",
+      "top1_edition": 2023,
+      "top5_ids": [
+        "cgi-2023:5442a17c011b:art-82:passage-0001",
+        "cgi-2023:5442a17c011b:art-82:passage-0016",
+        "cgi-2023:5442a17c011b:art-154-bis:passage-0001",
+        "cgi-2023:5442a17c011b:art-221-bis:passage-0002",
+        "cgi-2023:5442a17c011b:art-86:passage-0004"
+      ],
+      "question": "Selon le CGI 2023, quelles sont les deux dates limites de déclaration du revenu global selon que le contribuable perçoit ou non des revenus professionnels ?",
+      "expected_answer": "Avant le 1er mars pour les titulaires de revenus autres que professionnels ; avant le 1er mai pour les titulaires de revenus professionnels déterminés selon le résultat net réel ou simplifié.",
+      "retrieval_ms": 115.36709999927552,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2023,
+          "article": "82",
+          "id": "cgi-2023:5442a17c011b:art-82:passage-0001"
+        },
+        {
+          "rank": 2,
+          "edition": 2023,
+          "article": "82",
+          "id": "cgi-2023:5442a17c011b:art-82:passage-0016"
+        },
+        {
+          "rank": 3,
+          "edition": 2023,
+          "article": "154 bis",
+          "id": "cgi-2023:5442a17c011b:art-154-bis:passage-0001"
+        },
+        {
+          "rank": 4,
+          "edition": 2023,
+          "article": "221 bis",
+          "id": "cgi-2023:5442a17c011b:art-221-bis:passage-0002"
+        },
+        {
+          "rank": 5,
+          "edition": 2023,
+          "article": "86",
+          "id": "cgi-2023:5442a17c011b:art-86:passage-0004"
+        }
+      ]
+    },
+    {
+      "question_id": "ht03",
+      "family_id": "depart_maroc_declaration_delai",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2024,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        3
+      ],
+      "first_relevant_rank": 3,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 0,
+      "reciprocal_rank": 0.3333333333333333,
+      "reciprocal_rank_at_5": 0.3333333333333333,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "27",
+      "top1_edition": 2024,
+      "top5_ids": [
+        "cgi-2024:9492f199db7a:art-27:passage-0002",
+        "cgi-2024:9492f199db7a:art-27:passage-0001",
+        "cgi-2024:9492f199db7a:art-85:passage-0001",
+        "cgi-2024:9492f199db7a:art-175:passage-0001",
+        "cgi-2024:9492f199db7a:art-23:passage-0005"
+      ],
+      "question": "Selon le CGI 2024, au plus tard quand un contribuable qui cesse d’avoir son domicile fiscal au Maroc doit-il déclarer son revenu global ?",
+      "expected_answer": "Au plus tard trente jours avant la date de son départ.",
+      "retrieval_ms": 126.29699999888544,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2024,
+          "article": "27",
+          "id": "cgi-2024:9492f199db7a:art-27:passage-0002"
+        },
+        {
+          "rank": 2,
+          "edition": 2024,
+          "article": "27",
+          "id": "cgi-2024:9492f199db7a:art-27:passage-0001"
+        },
+        {
+          "rank": 3,
+          "edition": 2024,
+          "article": "85",
+          "id": "cgi-2024:9492f199db7a:art-85:passage-0001"
+        },
+        {
+          "rank": 4,
+          "edition": 2024,
+          "article": "175",
+          "id": "cgi-2024:9492f199db7a:art-175:passage-0001"
+        },
+        {
+          "rank": 5,
+          "edition": 2024,
+          "article": "23",
+          "id": "cgi-2024:9492f199db7a:art-23:passage-0005"
+        }
+      ]
+    },
+    {
+      "question_id": "ht04",
+      "family_id": "tva_chiffre_affaires_base",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2024,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        1
+      ],
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 1,
+      "reciprocal_rank": 1.0,
+      "reciprocal_rank_at_5": 1.0,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "96",
+      "top1_edition": 2024,
+      "top5_ids": [
+        "cgi-2024:9492f199db7a:art-96:passage-0001",
+        "cgi-2024:9492f199db7a:art-42-bis:passage-0001",
+        "cgi-2024:9492f199db7a:art-150-bis:passage-0001",
+        "cgi-2024:9492f199db7a:art-40:passage-0002",
+        "cgi-2024:9492f199db7a:art-167:passage-0001"
+      ],
+      "question": "Selon le CGI 2024, la TVA elle-même entre-t-elle dans le chiffre d’affaires imposable servant de base à la TVA ?",
+      "expected_answer": "Non. Le chiffre d’affaires imposable comprend les prix, recettes accessoires, frais, droits et taxes afférents, à l’exception de la TVA.",
+      "retrieval_ms": 134.8768999996537,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2024,
+          "article": "96",
+          "id": "cgi-2024:9492f199db7a:art-96:passage-0001"
+        },
+        {
+          "rank": 2,
+          "edition": 2024,
+          "article": "42 bis",
+          "id": "cgi-2024:9492f199db7a:art-42-bis:passage-0001"
+        },
+        {
+          "rank": 3,
+          "edition": 2024,
+          "article": "150 bis",
+          "id": "cgi-2024:9492f199db7a:art-150-bis:passage-0001"
+        },
+        {
+          "rank": 4,
+          "edition": 2024,
+          "article": "40",
+          "id": "cgi-2024:9492f199db7a:art-40:passage-0002"
+        },
+        {
+          "rank": 5,
+          "edition": 2024,
+          "article": "167",
+          "id": "cgi-2024:9492f199db7a:art-167:passage-0001"
+        }
+      ]
+    },
+    {
+      "question_id": "ht05",
+      "family_id": "enregistrement_mutation_immobilier",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2025,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        1
+      ],
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 1,
+      "reciprocal_rank": 1.0,
+      "reciprocal_rank_at_5": 1.0,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "127",
+      "top1_edition": 2025,
+      "top5_ids": [
+        "cgi-2025:f510cca73c15:art-127:passage-0004",
+        "cgi-2025:f510cca73c15:art-127:passage-0009"
+      ],
+      "question": "Dans le CGI 2025, quels immeubles et droits réels sont mentionnés au point a) de l’article 127-I-A-1° ?",
+      "expected_answer": "Les immeubles immatriculés ou non immatriculés et les droits réels portant sur de tels immeubles.",
+      "retrieval_ms": 176.1832999982289,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2025,
+          "article": "127",
+          "id": "cgi-2025:f510cca73c15:art-127:passage-0004"
+        },
+        {
+          "rank": 2,
+          "edition": 2025,
+          "article": "127",
+          "id": "cgi-2025:f510cca73c15:art-127:passage-0009"
+        }
+      ]
+    },
+    {
+      "question_id": "ht06",
+      "family_id": "cessation_entreprise_declaration_delai",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2025,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        2
+      ],
+      "first_relevant_rank": 2,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 0,
+      "reciprocal_rank": 0.5,
+      "reciprocal_rank_at_5": 0.5,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "150",
+      "top1_edition": 2025,
+      "top5_ids": [
+        "cgi-2025:f510cca73c15:art-150:passage-0002",
+        "cgi-2025:f510cca73c15:art-150:passage-0001"
+      ],
+      "question": "Selon le CGI 2025, dans quel délai une entreprise doit-elle souscrire la déclaration requise après une cessation ou une transformation visée à l’article 150 ?",
+      "expected_answer": "Dans les quarante-cinq jours à compter de la réalisation du changement concerné.",
+      "retrieval_ms": 117.65969999760273,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2025,
+          "article": "150",
+          "id": "cgi-2025:f510cca73c15:art-150:passage-0002"
+        },
+        {
+          "rank": 2,
+          "edition": 2025,
+          "article": "150",
+          "id": "cgi-2025:f510cca73c15:art-150:passage-0001"
+        }
+      ]
+    },
+    {
+      "question_id": "ht07",
+      "family_id": "tva_trimestrielle_delais",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2026,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        1
+      ],
+      "first_relevant_rank": 1,
+      "recall_at_5": 1.0,
+      "success_at_5": 1,
+      "hit_at_1": 1,
+      "reciprocal_rank": 1.0,
+      "reciprocal_rank_at_5": 1.0,
+      "union_recall_at_5": 1.0,
+      "line_coverage_at_5": 1.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "111",
+      "top1_edition": 2026,
+      "top5_ids": [
+        "cgi-2026:fe03c94471ae:art-111:passage-0001",
+        "cgi-2026:fe03c94471ae:art-176:passage-0002",
+        "cgi-2026:fe03c94471ae:art-82-bis:passage-0002",
+        "cgi-2026:fe03c94471ae:art-247:passage-0112",
+        "cgi-2026:fe03c94471ae:art-82-quater:passage-0001"
+      ],
+      "question": "Selon le CGI 2026, quel est le délai de déclaration trimestrielle du chiffre d’affaires, et quel délai s’applique si la déclaration est électronique ?",
+      "expected_answer": "La déclaration ordinaire doit être déposée avant le 20 du premier mois de chaque trimestre ; par procédé électronique, avant l’expiration de ce premier mois.",
+      "retrieval_ms": 178.7988000032783,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2026,
+          "article": "111",
+          "id": "cgi-2026:fe03c94471ae:art-111:passage-0001"
+        },
+        {
+          "rank": 2,
+          "edition": 2026,
+          "article": "176",
+          "id": "cgi-2026:fe03c94471ae:art-176:passage-0002"
+        },
+        {
+          "rank": 3,
+          "edition": 2026,
+          "article": "82 bis",
+          "id": "cgi-2026:fe03c94471ae:art-82-bis:passage-0002"
+        },
+        {
+          "rank": 4,
+          "edition": 2026,
+          "article": "247",
+          "id": "cgi-2026:fe03c94471ae:art-247:passage-0112"
+        },
+        {
+          "rank": 5,
+          "edition": 2026,
+          "article": "82 quater",
+          "id": "cgi-2026:fe03c94471ae:art-82-quater:passage-0001"
+        }
+      ]
+    },
+    {
+      "question_id": "ht08",
+      "family_id": "declaration_remunerations_tiers_nature",
+      "split": "supplementary_test",
+      "change_status": "not_classified",
+      "edition": 2026,
+      "annotation_batch": null,
+      "question_style": null,
+      "evidence_count": 1,
+      "proof_first_ranks": [
+        null
+      ],
+      "first_relevant_rank": null,
+      "recall_at_5": 0.0,
+      "success_at_5": 0,
+      "hit_at_1": 0,
+      "reciprocal_rank": 0.0,
+      "reciprocal_rank_at_5": 0.0,
+      "union_recall_at_5": 0.0,
+      "line_coverage_at_5": 0.0,
+      "index_oracle_recall": 1.0,
+      "top1_wrong_edition": 0,
+      "wrong_edition_top5_fraction": 0.0,
+      "any_wrong_edition_top5": 0,
+      "empty_results": 0,
+      "top1_article": "151",
+      "top1_edition": 2026,
+      "top5_ids": [
+        "cgi-2026:fe03c94471ae:art-151:passage-0006",
+        "cgi-2026:fe03c94471ae:art-151:passage-0009"
+      ],
+      "question": "Selon le CGI 2026, quelles catégories de rémunérations allouées à des tiers une entreprise doit-elle déclarer au titre de l’article 151-I ?",
+      "expected_answer": "Les honoraires, commissions, courtages et autres rémunérations similaires, ainsi que les rabais, remises et ristournes accordés après facturation, dans les conditions de l’article 151-I.",
+      "retrieval_ms": 128.89540000105626,
+      "top5": [
+        {
+          "rank": 1,
+          "edition": 2026,
+          "article": "151",
+          "id": "cgi-2026:fe03c94471ae:art-151:passage-0006"
+        },
+        {
+          "rank": 2,
+          "edition": 2026,
+          "article": "151",
+          "id": "cgi-2026:fe03c94471ae:art-151:passage-0009"
+        }
+      ]
+    }
+  ]
+}

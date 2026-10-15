@@ -1,0 +1,49 @@
+{
+  "question_id": "ht08",
+  "family_id": "declaration_remunerations_tiers_nature",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2026,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    null
+  ],
+  "first_relevant_rank": null,
+  "recall_at_5": 0.0,
+  "success_at_5": 0,
+  "hit_at_1": 0,
+  "reciprocal_rank": 0.0,
+  "reciprocal_rank_at_5": 0.0,
+  "union_recall_at_5": 0.0,
+  "line_coverage_at_5": 0.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "151",
+  "top1_edition": 2026,
+  "top5_ids": [
+    "cgi-2026:fe03c94471ae:art-151:passage-0006",
+    "cgi-2026:fe03c94471ae:art-151:passage-0009"
+  ],
+  "question": "Selon le CGI 2026, quelles catégories de rémunérations allouées à des tiers une entreprise doit-elle déclarer au titre de l’article 151-I ?",
+  "expected_answer": "Les honoraires, commissions, courtages et autres rémunérations similaires, ainsi que les rabais, remises et ristournes accordés après facturation, dans les conditions de l’article 151-I.",
+  "retrieval_ms": 128.89540000105626,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2026,
+      "article": "151",
+      "id": "cgi-2026:fe03c94471ae:art-151:passage-0006"
+    },
+    {
+      "rank": 2,
+      "edition": 2026,
+      "article": "151",
+      "id": "cgi-2026:fe03c94471ae:art-151:passage-0009"
+    }
+  ]
+}

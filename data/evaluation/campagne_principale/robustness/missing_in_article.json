@@ -1,0 +1,21 @@
+{
+  "id": "missing_in_article",
+  "expected": "abstain",
+  "status": "abstain",
+  "answer": "Les passages retrouvés ne permettent pas de répondre avec suffisamment de preuves dans cette édition.",
+  "citations": [],
+  "error": null,
+  "wall_ms": 1693.851200001518,
+  "gpu_before": {
+    "vram_used_mib": 4686.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 57.23009281875916,
+    "utilization_percent_sample": 9.0
+  },
+  "gpu_after": {
+    "vram_used_mib": 4684.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 57.2056668295066,
+    "utilization_percent_sample": 95.0
+  }
+}

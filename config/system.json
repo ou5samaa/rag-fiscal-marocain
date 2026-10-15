@@ -1,0 +1,7 @@
+{
+  "vector_backend": "chroma",
+  "generation_mode": "spans",
+  "context_mode": "parents",
+  "citation_mode": "blocks",
+  "citation_block_policy": "verified_blocks"
+}

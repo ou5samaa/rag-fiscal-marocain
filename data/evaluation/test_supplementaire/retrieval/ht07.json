@@ -1,0 +1,70 @@
+{
+  "question_id": "ht07",
+  "family_id": "tva_trimestrielle_delais",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2026,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    1
+  ],
+  "first_relevant_rank": 1,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 1,
+  "reciprocal_rank": 1.0,
+  "reciprocal_rank_at_5": 1.0,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "111",
+  "top1_edition": 2026,
+  "top5_ids": [
+    "cgi-2026:fe03c94471ae:art-111:passage-0001",
+    "cgi-2026:fe03c94471ae:art-176:passage-0002",
+    "cgi-2026:fe03c94471ae:art-82-bis:passage-0002",
+    "cgi-2026:fe03c94471ae:art-247:passage-0112",
+    "cgi-2026:fe03c94471ae:art-82-quater:passage-0001"
+  ],
+  "question": "Selon le CGI 2026, quel est le délai de déclaration trimestrielle du chiffre d’affaires, et quel délai s’applique si la déclaration est électronique ?",
+  "expected_answer": "La déclaration ordinaire doit être déposée avant le 20 du premier mois de chaque trimestre ; par procédé électronique, avant l’expiration de ce premier mois.",
+  "retrieval_ms": 178.7988000032783,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2026,
+      "article": "111",
+      "id": "cgi-2026:fe03c94471ae:art-111:passage-0001"
+    },
+    {
+      "rank": 2,
+      "edition": 2026,
+      "article": "176",
+      "id": "cgi-2026:fe03c94471ae:art-176:passage-0002"
+    },
+    {
+      "rank": 3,
+      "edition": 2026,
+      "article": "82 bis",
+      "id": "cgi-2026:fe03c94471ae:art-82-bis:passage-0002"
+    },
+    {
+      "rank": 4,
+      "edition": 2026,
+      "article": "247",
+      "id": "cgi-2026:fe03c94471ae:art-247:passage-0112"
+    },
+    {
+      "rank": 5,
+      "edition": 2026,
+      "article": "82 quater",
+      "id": "cgi-2026:fe03c94471ae:art-82-quater:passage-0001"
+    }
+  ]
+}

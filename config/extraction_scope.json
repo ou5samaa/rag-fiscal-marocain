@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "language": "fr",
+  "scope": {
+    "first_article": 1,
+    "last_article": 20,
+    "include_intercalated_articles": true,
+    "stop_before_article": "21"
+  },
+  "layout": {
+    "header_max_y_ratio": 0.10,
+    "printed_page_min_y_ratio": 0.90,
+    "notes_min_y_ratio": 0.48,
+    "notes_max_font_ratio": 0.82,
+    "body_left_x_max_ratio": 0.24
+  },
+  "editions": {
+    "2023": {
+      "file": "sources/CGI_2023_FR.pdf",
+      "sha256": "5442A17C011B7DFE2A3A39A858F43CDF18E8EB19B20A8B10D49623DAFC131C40",
+      "expected_pdf_pages": 694,
+      "cover_pdf_page": 2,
+      "start_pdf_page": 5,
+      "stop_scan_pdf_page": 55,
+      "observed_start_printed_page": "5"
+    },
+    "2025": {
+      "file": "sources/CGI_2025_FR.pdf",
+      "sha256": "F510CCA73C15FEA490D6D515854F89766555ED756831EF260F2DAE8EB9F2FE75",
+      "expected_pdf_pages": 750,
+      "cover_pdf_page": 1,
+      "start_pdf_page": 4,
+      "stop_scan_pdf_page": 55,
+      "observed_start_printed_page": "5"
+    }
+  }
+}

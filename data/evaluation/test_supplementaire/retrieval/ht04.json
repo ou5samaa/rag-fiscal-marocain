@@ -1,0 +1,70 @@
+{
+  "question_id": "ht04",
+  "family_id": "tva_chiffre_affaires_base",
+  "split": "supplementary_test",
+  "change_status": "not_classified",
+  "edition": 2024,
+  "annotation_batch": null,
+  "question_style": null,
+  "evidence_count": 1,
+  "proof_first_ranks": [
+    1
+  ],
+  "first_relevant_rank": 1,
+  "recall_at_5": 1.0,
+  "success_at_5": 1,
+  "hit_at_1": 1,
+  "reciprocal_rank": 1.0,
+  "reciprocal_rank_at_5": 1.0,
+  "union_recall_at_5": 1.0,
+  "line_coverage_at_5": 1.0,
+  "index_oracle_recall": 1.0,
+  "top1_wrong_edition": 0,
+  "wrong_edition_top5_fraction": 0.0,
+  "any_wrong_edition_top5": 0,
+  "empty_results": 0,
+  "top1_article": "96",
+  "top1_edition": 2024,
+  "top5_ids": [
+    "cgi-2024:9492f199db7a:art-96:passage-0001",
+    "cgi-2024:9492f199db7a:art-42-bis:passage-0001",
+    "cgi-2024:9492f199db7a:art-150-bis:passage-0001",
+    "cgi-2024:9492f199db7a:art-40:passage-0002",
+    "cgi-2024:9492f199db7a:art-167:passage-0001"
+  ],
+  "question": "Selon le CGI 2024, la TVA elle-même entre-t-elle dans le chiffre d’affaires imposable servant de base à la TVA ?",
+  "expected_answer": "Non. Le chiffre d’affaires imposable comprend les prix, recettes accessoires, frais, droits et taxes afférents, à l’exception de la TVA.",
+  "retrieval_ms": 134.8768999996537,
+  "top5": [
+    {
+      "rank": 1,
+      "edition": 2024,
+      "article": "96",
+      "id": "cgi-2024:9492f199db7a:art-96:passage-0001"
+    },
+    {
+      "rank": 2,
+      "edition": 2024,
+      "article": "42 bis",
+      "id": "cgi-2024:9492f199db7a:art-42-bis:passage-0001"
+    },
+    {
+      "rank": 3,
+      "edition": 2024,
+      "article": "150 bis",
+      "id": "cgi-2024:9492f199db7a:art-150-bis:passage-0001"
+    },
+    {
+      "rank": 4,
+      "edition": 2024,
+      "article": "40",
+      "id": "cgi-2024:9492f199db7a:art-40:passage-0002"
+    },
+    {
+      "rank": 5,
+      "edition": 2024,
+      "article": "167",
+      "id": "cgi-2024:9492f199db7a:art-167:passage-0001"
+    }
+  ]
+}

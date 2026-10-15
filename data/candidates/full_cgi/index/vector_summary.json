@@ -1,0 +1,14 @@
+{
+  "status": "candidate_e5_built",
+  "index_sha256": "1cd17224baaeedaead8511d264bc0076f8a8f82c020838fbb1170946eb1f5df6",
+  "vectors_sha256": "c99e0795e92659350bf47605d9eb0f0063188b36529f7549b34d1545d5adcc31",
+  "token_audit_sha256": "78ba96c61b4d54206b6611580792d4ae4839f4452dfb6450dba2c464c1131584",
+  "model_id": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "model_dir": "models/multilingual-e5-small",
+  "device": "cuda_paced",
+  "batch_size": 8,
+  "sampled_peak_vram_percent": 11.834391792867612,
+  "embedding_seconds": 52.73101740000129,
+  "documents": 9062
+}

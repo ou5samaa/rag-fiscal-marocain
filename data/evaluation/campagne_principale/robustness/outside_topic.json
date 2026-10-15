@@ -1,0 +1,21 @@
+{
+  "id": "outside_topic",
+  "expected": "abstain",
+  "status": "abstain",
+  "answer": "Les passages retrouvés ne permettent pas de répondre avec suffisamment de preuves dans cette édition.",
+  "citations": [],
+  "error": null,
+  "wall_ms": 73275.85320000071,
+  "gpu_before": {
+    "vram_used_mib": 285.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 3.480703468490474,
+    "utilization_percent_sample": 25.0
+  },
+  "gpu_after": {
+    "vram_used_mib": 4683.0,
+    "vram_total_mib": 8188.0,
+    "vram_percent": 57.193453834880316,
+    "utilization_percent_sample": 93.0
+  }
+}
